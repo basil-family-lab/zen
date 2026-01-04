@@ -27,10 +27,7 @@ This is where slowing down — without disengaging — can make a real differenc
 There’s a conversation coming up that matters, or one that already happened and left you unsettled.  
 It might be with a partner, colleague, manager, teammate, or co-parent.
 
-- entering the conversation more grounded
-- understanding what actually happened
-- following up with more clarity
-- leaving the situation with greater agency, not just relief
+You want to enter the conversation more grounded, understand what actually happened, and leave with greater agency — not just relief.
 
 ### Conversations are becoming tense or strained — sometimes unexpectedly
 
@@ -48,42 +45,37 @@ A team navigating ongoing change and resistance.
 A relationship that keeps circling the same tension.  
 A situation where you keep adapting, but nothing really shifts.
 
-This work focuses on what you can change — your stance, perception, and available options — so new movement becomes possible without force.
+You want to change how you’re engaging with the situation so new movement becomes possible — with more agency, clarity, and choice.
 
 ## How we work together
 
-Sessions are one-on-one, structured, and adaptive.  
-People typically work with me for a small set of sessions, depending on the situation.
+Sessions are one-on-one and focused on the specific situation you’re navigating.
 
-We work directly with what you’re navigating — paying attention to your thinking, your body, and the relational space around you.
+The work is structured, but responsive — we orient around what’s actually happening rather than following a preset sequence.
 
-I may introduce tools, assessments, or lenses when they’re useful. Nothing is prepackaged or prescribed, and additional support can be available when it makes sense.
+Depending on the situation, I may draw on tools, assessments, or practical lenses to support clarity and decision-making.
 
-The focus throughout is clarity, agency, and practical movement forward.
+People typically work with me for a small set of sessions, with the aim of increasing agency and creating movement you can carry forward on your own.
 
 ## What this is — and is not
 
 ### This is:
 
-- practical support for real situations
-- a way to slow down without disengaging
-- work that increases agency and options
-- grounded, relational, and immediately applicable
+- support for real, high-stakes situations  
+- work that increases agency and available options  
+- grounded, immediately applicable clarity  
 
 ### This is not:
 
-- therapy
-- advice-giving
-- performance coaching
-- fixing other people
+- therapy  
+- advice-giving  
+- performance coaching  
 
 ## About me
 
 I’m a certified Zen Leadership coach and instructor with the [Institute of Zen Leadership](https://zenleader.global), and the founder of [Mindset Dojo](https://mindset.dojo.center), a self-inquiry and presence-based practice community.
 
 My experience spans decades in business and technology, working in complex environments and periods of change, alongside lived experience navigating leadership, teams, and co-parenting.
-
-I’m also a student of Aikido, practicing alongside my children. That practice — working with energy, timing, and balance rather than force — quietly informs how I approach difficult situations and conversations.
 
 ## What people have said
 
