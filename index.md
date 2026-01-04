@@ -13,7 +13,7 @@ When conversations matter and things feel tense, stuck, or unclear, situational 
 
 ## The moment you’re in
 
-You might be thinking about a conversation you don’t want to get wrong.  
+You might be thinking about a conversation where how you show up really matters.  
 Or replaying one that didn’t land and noticing that familiar tightening — again.
 
 Often, it’s not a lack of effort, care, or competence. It’s that the usual ways of pushing through, explaining better, or waiting it out aren’t working anymore.
@@ -48,6 +48,8 @@ A situation where you keep adapting, but nothing really shifts.
 
 You want to change how you’re engaging with the situation so new movement becomes possible — with more agency, clarity, and choice.
 
+I can support you in doing that.
+
 ## How we work together
 
 Sessions are one-on-one and focused on the specific situation you’re navigating.
@@ -62,7 +64,7 @@ People typically work with me for a small set of sessions, with the aim of incre
 
 ### This is:
 
-- support for real, high-stakes situations  
+- support for real, life-impacting situations 
 - work that increases agency and available options  
 - grounded, immediately applicable clarity  
 
