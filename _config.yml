@@ -3,6 +3,8 @@ description: Static site for zen.basil.one
 baseurl: ""
 # Keep plugins list explicit so GitHub Pages matches local builds.
 plugins: []
+profile:
+  name: Michael Basil
 action_links:
   email: "mailto:michael@basil.one"
   connect: "https://connect.michael.basil.one"

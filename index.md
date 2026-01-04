@@ -9,6 +9,8 @@ css_id: home
 
 When conversations matter and things feel tense, stuck, or unclear, situational clarity can restore agency and open new pathways forward.
 
+![{{site.profile.name}}](/assets/images/profile.jpg){: .profile-image }
+
 ## The moment you’re in
 
 You might be thinking about a conversation you don’t want to get wrong.  
