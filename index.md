@@ -24,7 +24,8 @@ This is where slowing down — without disengaging — can make a real differenc
 
 ### Preparing for — or learning from — a difficult conversation
 
-There’s a conversation coming up that matters, or one that already happened and left you unsettled.  
+There’s a conversation coming up that matters, or one that already happened and left you unsettled.
+
 It might be with a partner, colleague, manager, teammate, or co-parent.
 
 You want to enter the conversation more grounded, understand what actually happened, and leave with greater agency — not just relief.
