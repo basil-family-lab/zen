@@ -8,3 +8,5 @@ profile:
 action_links:
   email: "mailto:michael@basil.one"
   connect: "https://connect.michael.basil.one"
+analytics:
+  ga_measurement_id: G-EEW23EJSSR

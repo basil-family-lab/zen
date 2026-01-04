@@ -3,9 +3,41 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}</title>
-  <meta name="description" content="{{ page.description }}"/>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}"/>
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% assign meta_description = page.description | default: site.description %}
+  {% if meta_description %}<meta name="description" content="{{ meta_description }}">{% endif %}
+  {% assign canonical_url = site.url | append: site.baseurl | append: page.url | replace: 'index.html', '' %}
+  <link rel="canonical" href="{{ canonical_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ meta_description }}">
+  <meta property="og:url" content="{{ canonical_url }}">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ meta_description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% if site.analytics.ga_measurement_id %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.ga_measurement_id }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.analytics.ga_measurement_id }}', {'anonymize_ip': true});
+      document.addEventListener('DOMContentLoaded', function() {
+        if (typeof window.gtag !== 'function') return;
+        document.querySelectorAll('[data-ga-event]').forEach(function(el) {
+          el.addEventListener('click', function() {
+            var action = el.getAttribute('data-ga-event');
+            var label = el.getAttribute('data-ga-label') || el.getAttribute('href') || 'unknown';
+            window.gtag('event', action, {
+              event_category: 'engagement',
+              event_label: label
+            });
+          });
+        });
+      });
+    </script>
+  {% endif %}
 </head>
 <body id="{{ page.css_id }}">
   <main>

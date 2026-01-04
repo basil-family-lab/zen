@@ -96,5 +96,5 @@ My experience spans decades in business and technology, working in complex envir
 
 If you’re in a difficult situation and want more clarity, agency, and options, you’re welcome to connect.
 
-- [Reach out by email]({{site.action_links.email}})
-- [Book a free video meet-and-greet]({{site.action_links.connect}})
+- [Reach out by email]({{site.action_links.email}}){: data-ga-event="contact_email" data-ga-label="home_email"}
+- [Book a free video meet-and-greet]({{site.action_links.connect}}){: data-ga-event="contact_meet" data-ga-label="home_meet"}
