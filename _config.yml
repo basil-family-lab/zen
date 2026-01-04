@@ -1,0 +1,4 @@
+title: zen.basil.one
+description: Static site for zen.basil.one
+# Keep plugins list explicit so GitHub Pages matches local builds.
+plugins: []
