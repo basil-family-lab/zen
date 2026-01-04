@@ -82,17 +82,23 @@ My experience spans decades in business and technology, working in complex envir
 
 ## What people have said
 
-### Business & technology leader navigating ongoing change
+### Business & Technology Leaders navigating complexity and change
 
-“As things shifted around me, I felt increasingly constrained. By changing how I saw the situation — and how I showed up — I regained a sense of agency and choice. What felt stuck became workable.”
+- “Brought clarity, inspiration, and light.”
+- “An exceptional listener who brings ideas together and shapes them into a solid structure.”
+- “Helped me think more deeply about what actually mattered.”
 
-### Emerging leader preparing for high-stakes interviews
+### Professionals in high-stakes or difficult conversations
 
-“We aligned my resume with how I articulated my experience for different audiences. I stopped performing and started speaking coherently about what I bring. That clarity changed how I showed up — and how I was received.”
+- “Raised conversations to a higher form.”
+- “Able to affect conversations and alter their course for the better.”
+- “Helped me navigate nuanced and difficult conversations more skillfully.”
 
-### Co-parent navigating an ongoing tension dynamic
+### Co-parents and professionals navigating ongoing relational tension
 
-“The tone of our conversations shifted in ways I didn’t expect. There’s less friction now, more clarity, and we’re able to negotiate without things escalating.”
+- “Navigated situations with calm and wisdom, even during conflict.”
+- “Diffused tension and changed the tone of conversations.”
+- “What felt stuck became workable.”
 
 ## Connect
 
