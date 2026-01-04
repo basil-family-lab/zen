@@ -22,7 +22,7 @@ This is where slowing down — without disengaging — can make a real differenc
 
 ## Situations may include
 
-### Preparing for — or learning from — a difficult conversation
+### Preparing for — or learning from — a consequential conversation
 
 There’s a conversation coming up that matters, or one that already happened and left you unsettled.
 
@@ -30,7 +30,7 @@ It might be with a partner, colleague, manager, teammate, or co-parent.
 
 You want to enter the conversation more grounded, understand what actually happened, and leave with greater agency — not just relief.
 
-### Conversations are becoming tense or strained — sometimes unexpectedly
+### Conversations that tighten or shift in the moment
 
 A meeting tightens.  
 A comment starts landing differently.  
@@ -38,7 +38,7 @@ The tone shifts, and your options narrow.
 
 You want to recognize what’s happening as it’s happening — and respond in a way that keeps you aligned, present, and resourced.
 
-### Resetting a frustrating dynamic that keeps repeating
+### Navigating ongoing change or stuck dynamics
 
 It’s not just one moment — it’s the pattern.
 
@@ -70,7 +70,7 @@ People typically work with me for a small set of sessions, with the aim of incre
 
 - therapy  
 - advice-giving  
-- performance coaching  
+- fixing other people  
 
 ## About me
 
@@ -80,15 +80,15 @@ My experience spans decades in business and technology, working in complex envir
 
 ## What people have said
 
-### Business & technology leader navigating change
+### Business & technology leader navigating ongoing change
 
 “As things shifted around me, I felt increasingly constrained. By changing how I saw the situation — and how I showed up — I regained a sense of agency and choice. What felt stuck became workable.”
 
-### Emerging leader preparing for interviews
+### Emerging leader preparing for high-stakes interviews
 
 “We aligned my resume with how I articulated my experience for different audiences. I stopped performing and started speaking coherently about what I bring. That clarity changed how I showed up — and how I was received.”
 
-### Co-parent navigating ongoing tension
+### Co-parent navigating an ongoing tension dynamic
 
 “The tone of our conversations shifted in ways I didn’t expect. There’s less friction now, more clarity, and we’re able to negotiate without things escalating.”
 
