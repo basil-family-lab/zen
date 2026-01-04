@@ -1,5 +1,6 @@
 title: zen.basil.one
 description: Static site for zen.basil.one
+url: https://zen.basil.one
 baseurl: ""
 # Keep plugins list explicit so GitHub Pages matches local builds.
 plugins: []
