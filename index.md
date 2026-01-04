@@ -14,8 +14,7 @@ When conversations matter and things feel tense, stuck, or unclear, situational 
 ## The moment you’re in
 
 You might be thinking about a conversation you don’t want to get wrong.  
-Or replaying one that didn’t land and wondering what you missed.  
-Or noticing that familiar tightening as things start to strain — again.
+Or replaying one that didn’t land and noticing that familiar tightening — again.
 
 Often, it’s not a lack of effort, care, or competence. It’s that the usual ways of pushing through, explaining better, or waiting it out aren’t working anymore.
 
