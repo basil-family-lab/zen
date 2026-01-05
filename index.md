@@ -31,11 +31,7 @@ css_id: home
   </p>
 
   <p>
-    Often, it’s not a lack of effort, care, or competence.
-  </p>
-
-  <p>
-    It’s that the usual ways of pushing through, explaining better, or waiting it out
+    Often, it’s not a lack of effort, care, or competence. It’s that the usual ways of pushing through, explaining better, or waiting it out
     aren’t working anymore.
   </p>
 
@@ -68,13 +64,9 @@ css_id: home
 
   <p>
     A meeting tightens.
-  </p>
-
-  <p>
+    <br/>
     A comment starts landing differently.
-  </p>
-
-  <p>
+    <br/>
     The tone shifts, and your options narrow.
   </p>
 
@@ -91,13 +83,9 @@ css_id: home
 
   <p>
     A team navigating ongoing change and resistance.
-  </p>
-
-  <p>
+    <br/>
     A relationship that keeps circling the same tension.
-  </p>
-
-  <p>
+    <br/>
     A situation where you keep adapting, but nothing really shifts.
   </p>
 
