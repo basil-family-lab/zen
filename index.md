@@ -5,104 +5,222 @@ description: Situational clarity sessions for navigating difficult conversations
 css_id: home
 ---
 
-# I help people in difficult situations they didn’t choose — but have to navigate.
+<section id="hero">
+  <h1>I help people in difficult situations they didn’t choose — but have to navigate.</h1>
 
-When conversations matter and things feel tense, stuck, or unclear, situational clarity can restore agency and open new pathways forward.
+  <p>
+    When conversations matter and things feel tense, stuck, or unclear,
+    situational clarity can restore agency and open new pathways forward.
+  </p>
 
-![{{site.profile.name}}](/assets/images/profile.jpg){: .profile-image }
+  <img
+    src="/assets/images/profile.jpg"
+    alt="{{ site.profile.name }}"
+    class="profile-image"
+  />
+</section>
 
-## The moment you’re in
+<section id="moment">
+  <h2>The moment you’re in</h2>
 
-You might be thinking about a conversation where how you show up really matters.  
-Or replaying one that didn’t land and noticing that familiar tightening — again.
+  <p>
+    You might be thinking about a conversation where how you show up really matters.
+  </p>
 
-Often, it’s not a lack of effort, care, or competence. It’s that the usual ways of pushing through, explaining better, or waiting it out aren’t working anymore.
+  <p>
+    Or replaying one that didn’t land and noticing that familiar tightening — again.
+  </p>
 
-This is where slowing down — without disengaging — can make a real difference.
+  <p>
+    Often, it’s not a lack of effort, care, or competence.
+  </p>
 
-## Situations may include
+  <p>
+    It’s that the usual ways of pushing through, explaining better, or waiting it out
+    aren’t working anymore.
+  </p>
 
-### Preparing for — or learning from — a consequential conversation
+  <p>
+    This is where slowing down — without disengaging — can make a real difference.
+  </p>
+</section>
 
-There’s a conversation coming up that matters, or one that already happened and left you unsettled.
+<section id="situations">
+  <h2>Situations may include</h2>
 
-It might be with a partner, colleague, manager, teammate, or co-parent.
+  <h3>Preparing for — or learning from — a consequential conversation</h3>
 
-You want to enter the conversation more grounded, understand what actually happened, and leave with greater agency — not just relief.
+  <p>
+    There’s a conversation coming up that matters, or one that already happened
+    and left you unsettled.
+  </p>
 
-### Conversations that tighten or shift in the moment
+  <p>
+    It might be with a partner, colleague, manager, teammate, or co-parent.
+  </p>
 
-A meeting tightens.  
-A comment starts landing differently.  
-The tone shifts, and your options narrow.
+  <p>
+    You want to enter the conversation more grounded,
+    understand what actually happened,
+    and leave with greater agency — not just relief.
+  </p>
 
-You want to recognize what’s happening as it’s happening — and respond in a way that keeps you aligned, present, and resourced.
+  <h3>Conversations that tighten or shift in the moment</h3>
 
-### Navigating ongoing change or stuck dynamics
+  <p>
+    A meeting tightens.
+  </p>
 
-It’s not just one moment — it’s the pattern.
+  <p>
+    A comment starts landing differently.
+  </p>
 
-A team navigating ongoing change and resistance.  
-A relationship that keeps circling the same tension.  
-A situation where you keep adapting, but nothing really shifts.
+  <p>
+    The tone shifts, and your options narrow.
+  </p>
 
-You want to change how you’re engaging with the situation so new movement becomes possible — with more agency, clarity, and choice.
+  <p>
+    You want to recognize what’s happening as it’s happening —
+    and respond in a way that keeps you aligned, present, and resourced.
+  </p>
 
-I can support you in doing that.
+  <h3>Navigating ongoing change or stuck dynamics</h3>
 
-## How we work together
+  <p>
+    It’s not just one moment — it’s the pattern.
+  </p>
 
-Sessions are one-on-one and focused on the specific situation you’re navigating.
+  <p>
+    A team navigating ongoing change and resistance.
+  </p>
 
-The work is structured, but responsive — we orient around what’s actually happening rather than following a preset sequence.
+  <p>
+    A relationship that keeps circling the same tension.
+  </p>
 
-Depending on the situation, I may draw on tools, assessments, or practical lenses to support clarity and decision-making.
+  <p>
+    A situation where you keep adapting, but nothing really shifts.
+  </p>
 
-People typically work with me for a small set of sessions, with the aim of increasing agency and creating movement you can carry forward on your own.
+  <p>
+    You want to change how you’re engaging with the situation
+    so new movement becomes possible —
+    with more agency, clarity, and choice.
+  </p>
 
-## What this is — and is not
+  <p>
+    <em>I can support you in doing that.</em>
+  </p>
+</section>
 
-### This is:
+<section id="how-we-work">
+  <h2>How we work together</h2>
 
-- support for real, life-impacting situations 
-- work that increases agency and available options  
-- grounded, immediately applicable clarity  
+  <p>
+    Sessions are one-on-one and focused on the specific situation you’re navigating.
+  </p>
 
-### This is not:
+  <p>
+    The work is structured, but responsive —
+    oriented around what’s actually happening
+    rather than following a preset sequence.
+  </p>
 
-- therapy  
-- advice-giving  
-- fixing other people  
+  <p>
+    Depending on the situation, I may draw on tools, assessments,
+    or practical lenses to support clarity and decision-making.
+  </p>
 
-## About me
+  <p>
+    People typically work with me for a small set of sessions,
+    with the aim of increasing agency
+    and creating movement you can carry forward on your own.
+  </p>
+</section>
 
-I’m a certified Zen Leadership coach and instructor with the [Institute of Zen Leadership](https://zenleader.global), and the founder of [Mindset Dojo](https://mindset.dojo.center), a self-inquiry and presence-based practice community.
+<section id="framing">
+  <h2>What this is — and is not</h2>
 
-My experience spans decades in business and technology, working in complex environments and periods of change, alongside lived experience navigating leadership, teams, and co-parenting.
+  <h3>This is:</h3>
+  <ul>
+    <li>support for real, life-impacting situations</li>
+    <li>work that increases agency and available options</li>
+    <li>grounded, immediately applicable clarity</li>
+  </ul>
 
-## What people have said
+  <h3>This is not:</h3>
+  <ul>
+    <li>therapy</li>
+    <li>advice-giving</li>
+    <li>fixing other people</li>
+  </ul>
+</section>
 
-### Business & Technology Leaders navigating complexity and change
+<section id="about">
+  <h2>About me</h2>
 
-- “Brought clarity, inspiration, and light.”
-- “An exceptional listener who brings ideas together and shapes them into a solid structure.”
-- “Helped me think more deeply about what actually mattered.”
+  <p>
+    I’m a certified Zen Leadership coach and instructor with the
+    <a href="https://zenleader.global">Institute of Zen Leadership</a>,
+    and the founder of
+    <a href="https://mindset.dojo.center">Mindset Dojo</a>,
+    a self-inquiry and presence-based practice community.
+  </p>
 
-### Professionals in high-stakes or difficult conversations
+  <p>
+    My experience spans decades in business and technology,
+    working in complex environments and periods of change,
+    alongside lived experience navigating leadership, teams, and co-parenting.
+  </p>
+</section>
 
-- “Raised conversations to a higher form.”
-- “Able to affect conversations and alter their course for the better.”
-- “Helped me navigate nuanced and difficult conversations more skillfully.”
+<section id="testimonials">
+  <h2>What people have said</h2>
 
-### Co-parents and professionals navigating ongoing relational tension
+  <h3>Business &amp; Technology Leaders navigating complexity and change</h3>
+  <ul>
+    <li>“Brought clarity, inspiration, and light.”</li>
+    <li>“An exceptional listener who brings ideas together and shapes them into a solid structure.”</li>
+    <li>“Helped me think more deeply about what actually mattered.”</li>
+  </ul>
 
-- “Navigated situations with calm and wisdom, even during conflict.”
-- “Diffused tension and changed the tone of conversations.”
-- “What felt stuck became workable.”
+  <h3>Professionals in high-stakes or difficult conversations</h3>
+  <ul>
+    <li>“Raised conversations to a higher form.”</li>
+    <li>“Able to affect conversations and alter their course for the better.”</li>
+    <li>“Helped me navigate nuanced and difficult conversations more skillfully.”</li>
+  </ul>
 
-## Connect
+  <h3>Co-parents and professionals navigating ongoing relational tension</h3>
+  <ul>
+    <li>“Navigated situations with calm and wisdom, even during conflict.”</li>
+    <li>“Diffused tension and changed the tone of conversations.”</li>
+    <li>“What felt stuck became workable.”</li>
+  </ul>
+</section>
 
-If you’re in a difficult situation and want more clarity, agency, and options, you’re welcome to connect.
+<section id="connect">
+  <h2>Connect</h2>
 
-- [Reach out by email]({{site.action_links.email}}){: data-ga-event="contact_email" data-ga-label="home_email"}
-- [Book a free video meet-and-greet]({{site.action_links.connect}}){: data-ga-event="contact_meet" data-ga-label="home_meet"}
+  <p>
+    If you’re in a difficult situation and want more clarity, agency, and options,
+    you’re welcome to connect.
+  </p>
+
+  <ul>
+    <li>
+      <a href="{{ site.action_links.email }}"
+         data-ga-event="contact_email"
+         data-ga-label="home_email">
+        Reach out by email
+      </a>
+    </li>
+    <li>
+      <a href="{{ site.action_links.connect }}"
+         data-ga-event="contact_meet"
+         data-ga-label="home_meet">
+        Book a free video meet-and-greet
+      </a>
+    </li>
+  </ul>
+</section>
