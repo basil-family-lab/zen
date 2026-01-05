@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Michael Basil — Situational Clarity for Difficult Conversations
-description: Situational clarity sessions for navigating difficult conversations with more agency, clarity, and options.
+
 css_id: home
 ---
 
