@@ -11,3 +11,5 @@ action_links:
   connect: "https://connect.michael.basil.one"
 analytics:
   ga_measurement_id: G-EEW23EJSSR
+footer:
+  copyright: "© 2026 Michael Basil. All rights reserved."

@@ -19,53 +19,9 @@
   {% if site.analytics.ga_measurement_id %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.ga_measurement_id }}"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', '{{ site.analytics.ga_measurement_id }}', {'anonymize_ip': true});
-      document.addEventListener('DOMContentLoaded', function() {
-        if (typeof window.gtag !== 'function') return;
-        document.querySelectorAll('[data-ga-event]').forEach(function(el) {
-          el.addEventListener('click', function(event) {
-            var action = el.getAttribute('data-ga-event');
-            var label = el.getAttribute('data-ga-label') || el.getAttribute('href') || 'unknown';
-            var href = el.getAttribute('href');
-            var target = el.getAttribute('target');
-
-            var navigate = function() {
-              if (!href) return;
-              if (target === '_blank') {
-                window.open(href, '_blank');
-              } else {
-                window.location = href;
-              }
-            };
-
-            var hasDestination = href && href.charAt(0) !== '#';
-            if (hasDestination) {
-              event.preventDefault();
-            }
-
-            var eventSent = false;
-            window.gtag('event', action, {
-              event_category: 'engagement',
-              event_label: label,
-              transport_type: 'beacon',
-              event_callback: function() {
-                eventSent = true;
-                navigate();
-              }
-            });
-
-            if (hasDestination) {
-              setTimeout(function() {
-                if (!eventSent) navigate();
-              }, 500);
-            }
-          });
-        });
-      });
+      window.GA_MEASUREMENT_ID = '{{ site.analytics.ga_measurement_id }}';
     </script>
+    <script src="{{ '/assets/js/analytics.js' | relative_url }}"></script>
   {% endif %}
 </head>
 <body id="{{ page.css_id }}">
@@ -73,7 +29,7 @@
     {{ content }}
   </main>
   <footer>
-    <span>© 2026 Michael Basil. All rights reserved.</span>
+    <span>{{ site.footer.copyright | default: '' }}</span>
     <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>
   </footer>
 </body>
