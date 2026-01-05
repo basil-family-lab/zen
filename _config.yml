@@ -13,3 +13,93 @@ analytics:
   ga_measurement_id: G-EEW23EJSSR
 footer:
   copyright: "© 2026 Michael Basil. All rights reserved."
+home:
+  hero:
+    heading: "I help people in difficult situations they didn’t choose — but have to navigate."
+    body: "When conversations matter and things feel tense, stuck, or unclear, situational clarity can restore agency and open new pathways forward."
+  moment:
+    heading: "The moment you’re in"
+    paragraphs:
+      - "You might be thinking about a conversation where how you show up really matters."
+      - "Or replaying one that didn’t land and noticing that familiar tightening — again."
+      - "Often, it’s not a lack of effort, care, or competence. It’s that the usual ways of pushing through, explaining better, or waiting it out aren’t working anymore."
+      - "This is where slowing down — without disengaging — can make a real difference."
+  situations:
+    heading: "Situations may include"
+    items:
+      - subheading: "Preparing for — or learning from — a consequential conversation"
+        paragraphs:
+          - "There’s a conversation coming up that matters, or one that already happened and left you unsettled."
+          - "It might be with a partner, colleague, manager, teammate, or co-parent."
+          - "You want to enter the conversation more grounded, understand what actually happened, and leave with greater agency — not just relief."
+      - subheading: "Conversations that tighten or shift in the moment"
+        lines:
+          - "A meeting tightens."
+          - "A comment starts landing differently."
+          - "The tone shifts, and your options narrow."
+        trailing_paragraph: "You want to recognize what’s happening as it’s happening — and respond in a way that keeps you aligned, present, and resourced."
+      - subheading: "Navigating ongoing change or stuck dynamics"
+        paragraphs:
+          - "It’s not just one moment — it’s the pattern."
+        lines:
+          - "A team navigating ongoing change and resistance."
+          - "A relationship that keeps circling the same tension."
+          - "A situation where you keep adapting, but nothing really shifts."
+        trailing_paragraph: "You want to change how you’re engaging with the situation so new movement becomes possible — with more agency, clarity, and choice."
+    closing_emphasis: "I can support you in doing that."
+  how_we_work:
+    heading: "How we work together"
+    paragraphs:
+      - "Sessions are one-on-one and focused on the specific situation you’re navigating."
+      - "The work is structured, but responsive — oriented around what’s actually happening rather than following a preset sequence."
+      - "Depending on the situation, I may draw on tools, assessments, or practical lenses to support clarity and decision-making."
+      - "People typically work with me for a small set of sessions, with the aim of increasing agency and creating movement you can carry forward on your own."
+  framing:
+    heading: "What this is — and is not"
+    positives:
+      heading: "This is:"
+      items:
+        - "support for real, life-impacting situations"
+        - "work that increases agency and available options"
+        - "grounded, immediately applicable clarity"
+    negatives:
+      heading: "This is not:"
+      items:
+        - "therapy"
+        - "advice-giving"
+        - "fixing other people"
+  about:
+    heading: "About me"
+    paragraphs:
+      - "I’m a certified Zen Leadership coach and instructor with the <a href=\"https://zenleader.global\">Institute of Zen Leadership</a>, and the founder of <a href=\"https://mindset.dojo.center\">Mindset Dojo</a>, a self-inquiry and presence-based practice community."
+      - "My experience spans decades in business and technology, working in complex environments and periods of change, alongside lived experience navigating leadership, teams, and co-parenting."
+  testimonials:
+    heading: "What people have said"
+    groups:
+      - title: "Business & Technology Leaders navigating complexity and change"
+        quotes:
+          - "“Brought clarity, inspiration, and light.”"
+          - "“An exceptional listener who brings ideas together and shapes them into a solid structure.”"
+          - "“Helped me think more deeply about what actually mattered.”"
+      - title: "Professionals in high-stakes or difficult conversations"
+        quotes:
+          - "“Raised conversations to a higher form.”"
+          - "“Able to affect conversations and alter their course for the better.”"
+          - "“Helped me navigate nuanced and difficult conversations more skillfully.”"
+      - title: "Co-parents and professionals navigating ongoing relational tension"
+        quotes:
+          - "“Navigated situations with calm and wisdom, even during conflict.”"
+          - "“Diffused tension and changed the tone of conversations.”"
+          - "“What felt stuck became workable.”"
+  connect:
+    heading: "Connect"
+    intro: "If you’re in a difficult situation and want more clarity, agency, and options, you’re welcome to connect."
+    ctas:
+      - key: email
+        label: "Reach out by email"
+        ga_event: contact_email
+        ga_label: home_email
+      - key: connect
+        label: "Book a free video meet-and-greet"
+        ga_event: contact_meet
+        ga_label: home_meet
