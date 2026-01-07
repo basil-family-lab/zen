@@ -95,10 +95,6 @@ home:
     heading: "Connect"
     intro: "If you’re in a difficult situation and want more clarity, agency, and options, you’re welcome to connect."
     ctas:
-      - key: email
-        label: "Reach out by email"
-        ga_event: contact_email
-        ga_label: home_email
       - key: connect
         label: "Book a free video meet-and-greet"
         ga_event: contact_meet
