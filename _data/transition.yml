@@ -1,0 +1,86 @@
+hero:
+  heading: Navigating Professional Transition
+  body: >
+    I help people in transition take responsibility for their next move
+    when the old story no longer fits and rushing forward would be a mistake.
+  image: "/assets/images/profile.jpg"
+  image_alt: "Michael Basil"
+moment:
+  heading: Transition exposes how you decide
+  paragraphs:
+    - >
+      Transition isn’t just a gap between roles. It’s a period where
+      familiar signals disappear and decision-making gets harder.
+    - >
+      This work is for people who want to move forward deliberately,
+      not reactively — and who are willing to slow down long enough
+      to see what’s actually emerging.
+
+situations:
+  heading: This often shows up as
+  items:
+    - subheading: Pressure to decide before things are clear
+      paragraphs:
+        - >
+          You feel urgency from finances, identity, or external expectations,
+          even though the right direction hasn’t fully revealed itself.
+    - subheading: A resume that works — but doesn’t guide you
+      paragraphs:
+        - >
+          You can get interviews, but you’re unsure which opportunities
+          are actually worth pursuing.
+    - subheading: Conflicting signals from the market
+      paragraphs:
+        - >
+          Feedback is inconsistent, and it’s hard to tell what’s noise
+          versus something worth paying attention to.
+  closing_emphasis: >
+    This phase isn’t about finding certainty — it’s about making
+    better decisions under uncertainty.
+
+how_we_work:
+  heading: How we work together
+  paragraphs:
+    - >
+      We work one-on-one using practical tools — resumes, interviews,
+      and preparation — as instruments for clarity, not performance theater.
+    - >
+      The focus is on pattern recognition, energy investment,
+      and choosing paths you can stand behind.
+    - >
+      This is not about speed. It’s about direction and integrity
+      in how you move forward.
+
+framing:
+  heading: What this work is — and isn’t
+  positives:
+    heading: This work supports
+    items:
+      - Clearer decision-making during uncertainty
+      - More intentional use of your time and energy
+      - Forward movement without forcing false clarity
+  negatives:
+    heading: This work does not offer
+    items:
+      - Career coaching scripts or motivational pressure
+      - Guarantees about outcomes or timelines
+      - Someone else deciding for you
+
+testimonials:
+  heading: What people have said
+  groups:
+    - title: Past clients
+      quotes:
+        - I’m much better able to understand where to cluster my energy instead of chasing everything.
+        - The work helped me choose which opportunities were actually worth investing in.
+
+connect:
+  heading: Next step
+  intro: >
+    I offer time-bound, one-on-one engagements (typically 3, 5, or 10 virtual sessions)
+    for people willing to take responsibility for how they move through transition.
+  ctas:
+    - key: schedule
+      label: Schedule a conversation
+      ga_event: connect
+      ga_label: transition_schedule

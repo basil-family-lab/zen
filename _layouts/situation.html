@@ -1,0 +1,111 @@
+---
+layout: default
+---
+{% assign data = site.data[page.data_key] %}
+
+<section id="hero">
+  <h1>{{ data.hero.heading }}</h1>
+
+  <p>{{ data.hero.body }}</p>
+
+  {% if data.hero.image %}
+    <img
+      src="{{ data.hero.image | relative_url }}"
+      alt="{{ data.hero.image_alt | default: site.profile.name }}"
+      class="profile-image"
+    />
+  {% endif %}
+</section>
+
+<section id="moment">
+  <h2>{{ data.moment.heading }}</h2>
+
+  {% for paragraph in data.moment.paragraphs %}
+    <p>{{ paragraph }}</p>
+  {% endfor %}
+</section>
+
+<section id="situations">
+  <h2>{{ data.situations.heading }}</h2>
+
+  {% for item in data.situations.items %}
+    <h3>{{ item.subheading }}</h3>
+
+    {% if item.paragraphs %}
+      {% for paragraph in item.paragraphs %}
+        <p>{{ paragraph }}</p>
+      {% endfor %}
+    {% endif %}
+
+    {% if item.lines %}
+      <p>{{ item.lines | join: '<br />' }}</p>
+    {% endif %}
+
+    {% if item.trailing_paragraph %}
+      <p>{{ item.trailing_paragraph }}</p>
+    {% endif %}
+  {% endfor %}
+
+  {% if data.situations.closing_emphasis %}
+    <p>
+      <em>{{ data.situations.closing_emphasis }}</em>
+    </p>
+  {% endif %}
+</section>
+
+<section id="how-we-work">
+  <h2>{{ data.how_we_work.heading }}</h2>
+
+  {% for paragraph in data.how_we_work.paragraphs %}
+    <p>{{ paragraph }}</p>
+  {% endfor %}
+</section>
+
+<section id="framing">
+  <h2>{{ data.framing.heading }}</h2>
+
+  <h3>{{ data.framing.positives.heading }}</h3>
+  <ul>
+    {% for item in data.framing.positives.items %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+  <h3>{{ data.framing.negatives.heading }}</h3>
+  <ul>
+    {% for item in data.framing.negatives.items %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="testimonials">
+  <h2>{{ data.testimonials.heading }}</h2>
+
+  {% for group in data.testimonials.groups %}
+    <h3>{{ group.title }}</h3>
+    <ul>
+      {% for quote in group.quotes %}
+        <li>{{ quote }}</li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</section>
+
+<section id="connect">
+  <h2>{{ data.connect.heading }}</h2>
+
+  <p>{{ data.connect.intro }}</p>
+
+  <ul>
+    {% for cta in data.connect.ctas %}
+      <li>
+        <a href="{{ site.action_links[cta.key] }}"
+           data-ga-event="{{ cta.ga_event }}"
+           data-ga-label="{{ cta.ga_label }}">
+          {{ cta.label }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

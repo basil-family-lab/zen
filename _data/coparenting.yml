@@ -1,0 +1,86 @@
+hero:
+  heading: Co-Parenting When the Dynamic Is Stuck
+  body: >
+    I help parents change how they show up in ongoing co-parenting situations
+    when the pattern isn’t working, the stakes are real, and walking away
+    isn’t an option.
+  image: "/assets/images/profile.jpg"
+  image_alt: "Michael Basil"
+moment:
+  heading: This isn’t about winning
+  paragraphs:
+    - >
+      Co-parenting conflict doesn’t resolve itself with time. It resolves when
+      someone changes how they participate in the system.
+    - >
+      This work is for people who are no longer willing to stay trapped in
+      reactive cycles — even when the other parent may never change.
+
+situations:
+  heading: You might recognize yourself here
+  items:
+    - subheading: The same conversations keep repeating
+      paragraphs:
+        - >
+          You’ve had versions of the same discussion many times.
+          It escalates, shuts down, or drifts — and nothing actually changes.
+    - subheading: You leave interactions drained or unsettled
+      paragraphs:
+        - >
+          Even when nothing dramatic happens, the emotional cost is high.
+          You replay conversations or brace for the next one.
+    - subheading: You want to protect your children without escalating conflict
+      paragraphs:
+        - >
+          You care about long-term stability more than short-term validation,
+          but you’re not sure how to shift the dynamic without making things worse.
+  closing_emphasis: >
+    This work starts with what you can control — your preparation,
+    your responses, and your choices over time.
+
+how_we_work:
+  heading: How we work together
+  paragraphs:
+    - >
+      This is one-on-one work focused on preparation, regulation,
+      and deliberate response — not fixing or managing the other parent.
+    - >
+      We work with real upcoming conversations, recurring situations,
+      and the emotional patterns that tend to hijack them.
+    - >
+      The goal is not false harmony. The goal is increased agency and stability
+      inside a system you are already part of.
+
+framing:
+  heading: What this work is — and isn’t
+  positives:
+    heading: This work supports
+    items:
+      - More intentional communication under pressure
+      - Reduced reactivity in repeated interactions
+      - Clearer decisions aligned with your values and priorities
+  negatives:
+    heading: This work does not offer
+    items:
+      - Mediation or representation of both sides
+      - Strategies for “winning” or proving the other parent wrong
+      - Guarantees about how someone else will behave
+
+testimonials:
+  heading: What people have said
+  groups:
+    - title: Past clients
+      quotes:
+        - It feels like we can negotiate without the constant fear of ending up back in court.
+        - I’m no longer bracing for every interaction — I can prepare and respond deliberately.
+
+connect:
+  heading: Next step
+  intro: >
+    This work is offered in time-bound engagements (typically 3, 5, or 10 virtual sessions)
+    and requires a willingness to examine how you show up.
+  ctas:
+    - key: schedule
+      label: Schedule a conversation
+      ga_event: connect
+      ga_label: coparenting_schedule
