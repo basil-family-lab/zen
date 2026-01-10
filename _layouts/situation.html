@@ -95,7 +95,13 @@ layout: default
 <section id="connect">
   <h2>{{ data.connect.heading }}</h2>
 
-  <p>{{ data.connect.intro }}</p>
+  {% if data.connect.intro_paragraphs %}
+    {% for paragraph in data.connect.intro_paragraphs %}
+      <p>{{ paragraph }}</p>
+    {% endfor %}
+  {% else %}
+    <p>{{ data.connect.intro }}</p>
+  {% endif %}
 
   {% for cta in data.connect.ctas %}
     <p>

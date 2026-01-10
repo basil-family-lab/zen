@@ -112,19 +112,20 @@ testimonials:
 
 connect:
   heading: Next step
-  intro: >
-    If this resonates, the work is typically done in a focused engagement
-    of three, five, or ten one-on-one virtual sessions.
-    The number depends on the complexity of the transition
-    and what you’re trying to clarify or change.
-    
-    The next step is a free discovery consultation.
-    In that conversation, we’ll look at your current situation,
-    clarify what you’re aiming for,
-    and determine together whether this work is a good fit —
-    and if so, what a reasonable scope would be.
-    
-    There’s no obligation.
+  intro_paragraphs:
+    - >
+      If this resonates, the work is typically done in a focused engagement
+      of three, five, or ten one-on-one virtual sessions.
+      The number depends on the complexity of the transition
+      and what you’re trying to clarify or change.
+    - >
+      The next step is a free discovery consultation.
+      In that conversation, we’ll look at your current situation,
+      clarify what you’re aiming for,
+      and determine together whether this work is a good fit —
+      and if so, what a reasonable scope would be.
+    - >
+      There’s no obligation.
   ctas:
     - key: connect
       label: Schedule a free discovery consultation
