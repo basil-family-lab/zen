@@ -1,20 +1,26 @@
 hero:
   heading: Co-Parenting When the Dynamic Is Stuck
   body: >
-    I help parents change how they show up in ongoing co-parenting situations
-    when the pattern isn’t working, the stakes are real, and walking away
-    isn’t an option.
-  image: "/assets/images/profile.jpg"
-  image_alt: "Michael Basil"
+    I help parents change how they show up in high-conflict co-parenting situations,
+    even when the other parent may never change.
+    The work focuses on increasing your agency,
+    reducing unnecessary escalation,
+    and creating more stability for you and your children.
+  image: /assets/images/profile.jpg
+  image_alt: Michael Basil
+
 moment:
   heading: This isn’t about winning
   paragraphs:
     - >
-      Co-parenting conflict doesn’t resolve itself with time. It resolves when
-      someone changes how they participate in the system.
+      Co-parenting conflict doesn’t resolve itself with time.
+      Patterns tend to harden, reactions intensify,
+      and conversations start to feel more brittle and charged.
     - >
-      This work is for people who are no longer willing to stay trapped in
-      reactive cycles — even when the other parent may never change.
+      This work is for parents who want to interrupt those patterns —
+      even when cooperation is limited,
+      and even when the other parent may not participate
+      in the change you’re making.
 
 situations:
   heading: You might recognize yourself here
@@ -22,34 +28,50 @@ situations:
     - subheading: The same conversations keep repeating
       paragraphs:
         - >
-          You’ve had versions of the same discussion many times.
-          It escalates, shuts down, or drifts — and nothing actually changes.
-    - subheading: You leave interactions drained or unsettled
+          You revisit the same topics again and again,
+          hoping this time the outcome will be different —
+          but it rarely is.
+    - subheading: Interactions leave you drained or on edge
       paragraphs:
         - >
-          Even when nothing dramatic happens, the emotional cost is high.
-          You replay conversations or brace for the next one.
-    - subheading: You want to protect your children without escalating conflict
+          You prepare carefully, yet still walk away feeling reactive,
+          misunderstood, or emotionally exhausted.
+    - subheading: You’re trying to protect your children without escalating things
       paragraphs:
         - >
-          You care about long-term stability more than short-term validation,
-          but you’re not sure how to shift the dynamic without making things worse.
+          You want consistency and stability for your kids,
+          while avoiding dynamics that make everything feel more adversarial.
+    - subheading: Court feels like it’s always in the background
+      paragraphs:
+        - >
+          Even when you’re not in court,
+          it can feel like it’s only one bad interaction away.
+        - >
+          You’re curious whether there’s another way
+          to shift the pattern before things escalate further.
   closing_emphasis: >
-    This work starts with what you can control — your preparation,
-    your responses, and your choices over time.
+    This work starts with what you can control —
+    how you prepare, respond, and show up inside the system you’re already in.
 
 how_we_work:
   heading: How we work together
   paragraphs:
     - >
-      This is one-on-one work focused on preparation, regulation,
-      and deliberate response — not fixing or managing the other parent.
+      This is one-on-one work with real conversations and current situations.
+      We work with what is actually happening —
+      the interactions you’re already in
+      and the patterns that tend to take over when the stakes are high.
     - >
-      We work with real upcoming conversations, recurring situations,
-      and the emotional patterns that tend to hijack them.
+      This is not just vibes.
     - >
-      The goal is not false harmony. The goal is increased agency and stability
-      inside a system you are already part of.
+      The tools I bring into this work are informed by my training and experience
+      as a certified Zen Leadership instructor through the Institute for Zen Leadership.
+    - >
+      The goal is not false harmony.
+      The goal is increased agency and stability over time —
+      reducing the likelihood of court involvement,
+      expensive mediation,
+      and ongoing conflict that pulls energy away from your family.
 
 framing:
   heading: What this work is — and isn’t
@@ -57,30 +79,44 @@ framing:
     heading: This work supports
     items:
       - More intentional communication under pressure
-      - Reduced reactivity in repeated interactions
-      - Clearer decisions aligned with your values and priorities
+      - Reduced reactivity in high-stakes moments
+      - Clearer decision-making when emotions are running high
+      - Greater stability over time for you and your children
   negatives:
-    heading: This work does not offer
+    heading: This work is not
     items:
-      - Mediation or representation of both sides
-      - Strategies for “winning” or proving the other parent wrong
-      - Guarantees about how someone else will behave
+      - Mediation or legal advice
+      - About convincing the other parent to change
+      - A guarantee of outcomes you don’t control
+      - Focused on surface-level calm without structural change
 
 testimonials:
   heading: What people have said
   groups:
-    - title: Past clients
+    - title: Outcomes
       quotes:
-        - It feels like we can negotiate without the constant fear of ending up back in court.
-        - I’m no longer bracing for every interaction — I can prepare and respond deliberately.
+        - >
+          It feels like we can negotiate without fear of court constantly hanging over us.
+        - >
+          I’m able to prepare for conversations and respond deliberately,
+          instead of getting pulled into the same emotional spiral.
 
 connect:
   heading: Next step
   intro: >
-    This work is offered in time-bound engagements (typically 3, 5, or 10 virtual sessions)
-    and requires a willingness to examine how you show up.
+    If this resonates, the work is typically done in a focused engagement
+    of three, five, or ten one-on-one virtual sessions.
+    The number depends on the complexity of the situation
+    and what you’re trying to stabilize or change.
+    
+    The next step is a free discovery consultation.
+    In that conversation, we’ll look at your current situation,
+    clarify what you want to change,
+    and determine together whether this work is a good fit —
+    and if so, what a reasonable scope would be.
+    There’s no obligation.
   ctas:
-    - key: schedule
-      label: Schedule a conversation
-      ga_event: connect
-      ga_label: coparenting_schedule
+    - key: discovery
+      label: Schedule a free discovery consultation
+      ga_event: conversion
+      ga_label: discovery_consultation

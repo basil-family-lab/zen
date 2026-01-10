@@ -1,86 +1,131 @@
 hero:
-  heading: Navigating Professional Transition
+  heading: Navigating Transition Without Losing Your Center
   body: >
-    I help people in transition take responsibility for their next move
-    when the old story no longer fits and rushing forward would be a mistake.
-  image: "/assets/images/profile.jpg"
-  image_alt: "Michael Basil"
+    I help people regain clarity and agency during professional transition —
+    especially after disruption they didn’t choose.
+    The work focuses on reducing confusion,
+    concentrating your energy,
+    and moving forward deliberately instead of reactively.
+  image: /assets/images/profile.jpg
+  image_alt: Michael Basil
+
 moment:
-  heading: Transition exposes how you decide
+  heading: This isn’t about rushing
   paragraphs:
     - >
-      Transition isn’t just a gap between roles. It’s a period where
-      familiar signals disappear and decision-making gets harder.
+      Transition often comes with a flood of advice —
+      much of it projected from what worked for someone else
+      ten or even twenty years ago,
+      in a very different market and context.
     - >
-      This work is for people who want to move forward deliberately,
-      not reactively — and who are willing to slow down long enough
-      to see what’s actually emerging.
+      At the same time, feedback cycles can be slow and uneven.
+      It’s hard to know whether something isn’t working,
+      or whether you simply haven’t received a signal yet.
+      Without clarity, effort can quickly become fragmented and draining.
 
 situations:
-  heading: This often shows up as
+  heading: You might recognize yourself here
   items:
-    - subheading: Pressure to decide before things are clear
+    - subheading: You’re getting a lot of advice, but very little signal
       paragraphs:
         - >
-          You feel urgency from finances, identity, or external expectations,
-          even though the right direction hasn’t fully revealed itself.
-    - subheading: A resume that works — but doesn’t guide you
+          Well-meaning people offer suggestions,
+          yet much of it feels outdated,
+          mismatched,
+          or disconnected from how hiring actually works today.
+    - subheading: There are too many possible directions
       paragraphs:
         - >
-          You can get interviews, but you’re unsure which opportunities
-          are actually worth pursuing.
-    - subheading: Conflicting signals from the market
+          Different roles, industries, and paths are available,
+          but it’s hard to tell which ones are actually worth investing in —
+          especially when signals arrive slowly or inconsistently.
+    - subheading: Your resume doesn’t reflect who you are now
       paragraphs:
         - >
-          Feedback is inconsistent, and it’s hard to tell what’s noise
-          versus something worth paying attention to.
+          You know you’ve grown,
+          but your resume — or set of resumes —
+          still anchors you to an earlier version of yourself.
+    - subheading: Traditional approaches aren’t helping you gain traction
+      paragraphs:
+        - >
+          Career placement and generic job-search advice
+          tend to be cookie-cutter.
+          They rarely help you clarify where your energy fits best
+          or how to differentiate yourself once you’re in the process.
   closing_emphasis: >
-    This phase isn’t about finding certainty — it’s about making
-    better decisions under uncertainty.
+    This work treats clarity as the top priority —
+    so effort and opportunity start to align
+    instead of becoming fragmented and frayed.
 
 how_we_work:
   heading: How we work together
   paragraphs:
     - >
-      We work one-on-one using practical tools — resumes, interviews,
-      and preparation — as instruments for clarity, not performance theater.
+      This is one-on-one work with real decisions and real constraints.
+      We focus on your current situation
+      and the choices directly in front of you.
     - >
-      The focus is on pattern recognition, energy investment,
-      and choosing paths you can stand behind.
+      This is not just vibes.
     - >
-      This is not about speed. It’s about direction and integrity
-      in how you move forward.
+      The tools I bring into this work are informed by my training and experience
+      as a certified Zen Leadership instructor through the Institute for Zen Leadership.
+    - >
+      We often use your resume — or a small set of resumes —
+      as a working surface.
+      Not just to improve them,
+      but to clarify intention,
+      identify where your energy is strongest,
+      and understand how your story lands in different contexts.
+    - >
+      The goal is not to chase every option.
+      The goal is to identify a strong cluster of roles or directions,
+      focus your energy there,
+      and engage the process with steadiness and confidence.
 
 framing:
   heading: What this work is — and isn’t
   positives:
     heading: This work supports
     items:
-      - Clearer decision-making during uncertainty
-      - More intentional use of your time and energy
-      - Forward movement without forcing false clarity
+      - Clearer orientation during uncertainty
+      - More deliberate use of time and energy
+      - Stronger positioning for roles that actually fit
+      - Increased confidence in interviews and late-stage conversations
   negatives:
-    heading: This work does not offer
+    heading: This work is not
     items:
-      - Career coaching scripts or motivational pressure
-      - Guarantees about outcomes or timelines
-      - Someone else deciding for you
+      - A resume rewriting service
+      - Career placement or job guarantees
+      - Generic job-search advice
+      - Open-ended support without a defined scope
 
 testimonials:
   heading: What people have said
   groups:
-    - title: Past clients
+    - title: Outcomes
       quotes:
-        - I’m much better able to understand where to cluster my energy instead of chasing everything.
-        - The work helped me choose which opportunities were actually worth investing in.
+        - >
+          I’m much better able to understand where to cluster my energy
+          instead of chasing every possible opportunity.
+        - >
+          The process helped me focus on roles where my experience actually stood out.
 
 connect:
   heading: Next step
   intro: >
-    I offer time-bound, one-on-one engagements (typically 3, 5, or 10 virtual sessions)
-    for people willing to take responsibility for how they move through transition.
+    If this resonates, the work is typically done in a focused engagement
+    of three, five, or ten one-on-one virtual sessions.
+    The number depends on the complexity of the transition
+    and what you’re trying to clarify or change.
+    
+    The next step is a free discovery consultation.
+    In that conversation, we’ll look at your current situation,
+    clarify what you’re aiming for,
+    and determine together whether this work is a good fit —
+    and if so, what a reasonable scope would be.
+    There’s no obligation.
   ctas:
-    - key: schedule
-      label: Schedule a conversation
-      ga_event: connect
-      ga_label: transition_schedule
+    - key: discovery
+      label: Schedule a free discovery consultation
+      ga_event: conversion
+      ga_label: discovery_consultation

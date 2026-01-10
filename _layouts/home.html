@@ -1,0 +1,54 @@
+---
+layout: default
+---
+{% assign data = site.data[page.data_key] %}
+
+<section id="hero">
+  <h1>{{ data.hero.heading }}</h1>
+
+  <p>{{ data.hero.body }}</p>
+
+  {% if data.hero.image %}
+    <img
+      src="{{ data.hero.image | relative_url }}"
+      alt="{{ data.hero.image_alt | default: site.profile.name }}"
+      class="profile-image"
+    />
+  {% endif %}
+</section>
+
+<section id="moment">
+  <h2>{{ data.moment.heading }}</h2>
+
+  {% for paragraph in data.moment.paragraphs %}
+    <p>{{ paragraph }}</p>
+  {% endfor %}
+</section>
+
+<section id="credibility">
+  <p>
+    <em>{{ data.credibility.line }}</em>
+  </p>
+</section>
+
+<section id="situations">
+  <h2>{{ data.situations.heading }}</h2>
+
+  {% for item in data.situations.items %}
+    <h3>{{ item.subheading }}</h3>
+
+    {% for paragraph in item.paragraphs %}
+      <p>{{ paragraph }}</p>
+    {% endfor %}
+
+    {% if item.link %}
+      <p>
+        <a href="{{ item.link.url | relative_url }}">{{ item.link.label }}</a>
+      </p>
+    {% endif %}
+  {% endfor %}
+</section>
+
+<section id="closing">
+  <p>{{ data.closing.line }}</p>
+</section>
