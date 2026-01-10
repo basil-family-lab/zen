@@ -6,7 +6,7 @@ This repository contains the source for a static single page site.
 
 1. Open in GitHub Codespaces (uses the provided dev container), or use Ruby 3.2+ with Bundler locally.
 2. Install deps: `bundle install`
-3. Run with live reload: `bundle exec jekyll serve --livereload --watch --force_polling`
+3. Run with live reload: `bundle exec jekyll serve`
 
 The site will be available at http://localhost:4000.
 

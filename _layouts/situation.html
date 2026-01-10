@@ -97,15 +97,14 @@ layout: default
 
   <p>{{ data.connect.intro }}</p>
 
-  <ul>
-    {% for cta in data.connect.ctas %}
-      <li>
-        <a href="{{ site.action_links[cta.key] }}"
-           data-ga-event="{{ cta.ga_event }}"
-           data-ga-label="{{ cta.ga_label }}">
-          {{ cta.label }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+  {% for cta in data.connect.ctas %}
+    <p>
+      👉
+      <a href="{{ site.action_links[cta.key] }}"
+         data-ga-event="{{ cta.ga_event }}"
+         data-ga-label="{{ cta.ga_label }}">
+        {{ cta.label }}
+      </a>
+    </p>
+  {% endfor %}
 </section>
