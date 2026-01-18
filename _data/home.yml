@@ -30,6 +30,19 @@ credibility:
 situations:
   heading: People usually arrive here during one of these moments
   items:
+    - subheading: Workplace conflict that won’t resolve on its own
+      paragraphs:
+        - >
+          Repeating conversations.
+          Unclear authority.
+          Escalation feels risky.
+        - >
+          You want to act with clarity
+          without making the situation worse.
+      link:
+        url: /workplace/
+        label: Explore workplace support
+
     - subheading: Co-parenting in a high-conflict dynamic
       paragraphs:
         - >
@@ -42,18 +55,6 @@ situations:
       link:
         url: /co-parenting/
         label: Explore co-parenting support
-    - subheading: Professional transition after disruption
-      paragraphs:
-        - >
-          Too many options.
-          Too much advice.
-          Not enough signal.
-        - >
-          You want clarity about where to focus your energy
-          before making your next move.
-      link:
-        url: /transition/
-        label: Explore transition support
 
 closing:
   line: >

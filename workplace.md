@@ -1,8 +1,8 @@
 ---
 layout: situation
-title: Transition
+title: Workplace
 description: Support for difficult transitions and high-stakes conversations.
-data_key: transition
-permalink: /transition/
-css_id: situation-transition
+data_key: workplace
+permalink: /workplace/
+css_id: situation-workplace
 ---

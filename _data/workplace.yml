@@ -1,0 +1,134 @@
+hero:
+  heading: Workplace Conflict When the Situation Is Stuck
+  body: >
+    I help professionals navigate ongoing workplace conflict
+    where the stakes are real and the path forward isn’t obvious —
+    even when other people involved may never change.
+    The work focuses on increasing your agency,
+    reducing unnecessary escalation,
+    and helping you act with clarity inside the system you’re already in.
+  image: /assets/images/profile.jpg
+  image_alt: Michael Basil
+
+moment:
+  heading: This isn’t about winning
+  paragraphs:
+    - >
+      Workplace conflict rarely resolves itself on its own.
+      Patterns tend to repeat,
+      conversations become more constrained,
+      and tension accumulates beneath the surface.
+    - >
+      This work is for people who want to interrupt those patterns —
+      even when power dynamics are uneven,
+      incentives are misaligned,
+      or escalation feels risky.
+
+situations:
+  heading: You might recognize yourself here
+  items:
+    - subheading: The same conversations keep circling without resolution
+      paragraphs:
+        - >
+          You revisit the same topics in meetings or one-on-ones,
+          hoping for movement —
+          but the outcome stays largely the same.
+    - subheading: Interactions leave you guarded or on edge
+      paragraphs:
+        - >
+          You prepare carefully,
+          yet still walk away feeling constrained,
+          reactive,
+          or unsure how your actions are being interpreted.
+    - subheading: You’re accountable without full authority
+      paragraphs:
+        - >
+          You’re responsible for outcomes,
+          but don’t control all the levers that shape them.
+    - subheading: Escalation feels costly
+      paragraphs:
+        - >
+          Involving HR, leadership, or formal processes
+          feels like it could create new problems —
+          even if the current situation isn’t sustainable.
+        - >
+          You’re wondering whether there’s a way
+          to shift the pattern before things harden further.
+  closing_emphasis: >
+    This work starts with what you can control —
+    how you prepare,
+    how you respond,
+    and how you choose to engage inside the system you’re part of.
+
+how_we_work:
+  heading: How we work together
+  paragraphs:
+    - >
+      This is one-on-one work grounded in real situations.
+      We work with current interactions,
+      organizational context,
+      and the patterns that tend to take over when stakes are high.
+    - >
+      This is not just vibes.
+    - >
+      The tools I bring into this work are informed by my training and experience
+      as a certified Zen Leadership instructor through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
+    - >
+      The goal is not false harmony.
+      The goal is clearer judgment,
+      increased agency,
+      and more deliberate action over time —
+      reducing unnecessary escalation
+      and preserving credibility and stability.
+
+framing:
+  heading: What this work is — and isn’t
+  positives:
+    heading: This work supports
+    items:
+      - More intentional communication under pressure
+      - Reduced reactivity in high-stakes professional moments
+      - Clearer decision-making within complex systems
+      - Greater stability and credibility over time
+  negatives:
+    heading: This work is not
+    items:
+      - HR mediation or legal advice
+      - Advocacy against colleagues or organizations
+      - Performance coaching or career optimization
+      - A guarantee of outcomes you don’t control
+
+testimonials:
+  heading: What people have said
+  groups:
+    - title: Outcomes
+      quotes:
+        - >
+          I’m able to prepare for difficult conversations
+          instead of reacting in the moment.
+        - >
+          It helped me see where I actually had agency
+          and where I didn’t — which changed how I engaged.
+
+connect:
+  heading: Next step
+  intro_paragraphs:
+    - >
+      If this resonates, the work is typically done in a focused engagement
+      of five or ten one-on-one virtual sessions.
+      The number depends on the complexity of the situation
+      and what you’re trying to stabilize or shift.
+    - >
+      The next step is a free discovery consultation.
+      In that conversation,
+      we’ll look at your current context,
+      clarify what you want to change,
+      and determine together whether this work is a good fit —
+      and if so, what a reasonable scope would be.
+    - >
+      There’s no obligation.
+  ctas:
+    - key: connect
+      label: Schedule a free discovery consultation
+      ga_event: conversion
+      ga_label: discovery_consultation
