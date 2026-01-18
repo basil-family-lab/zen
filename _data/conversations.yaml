@@ -1,0 +1,86 @@
+hero:
+  heading: Conflict Conversations
+  body: >
+    Conflict Conversations is a public, recorded inquiry
+    using real situations to surface patterns, language,
+    and decision dynamics around conflict.
+    The aim is improved clarity and agency —
+    so people can act more deliberately
+    in how they show up going forward.
+  image: /assets/images/profile.jpg
+  image_alt: Michael Basil
+
+moment:
+  heading: When understanding becomes critical to improving the situation
+  paragraphs:
+    - >
+      In complex or high-stakes situations,
+      action often happens before understanding has fully formed.
+    - >
+      Conflict Conversations exists for moments
+      when better clarity is necessary
+      to improve how decisions are made
+      and how people choose to engage.
+
+participants:
+  heading: Who this is for
+  paragraphs:
+    - >
+      Conflict Conversations is for people willing to examine
+      a real situation publicly,
+      with enough distance and composure
+      to reflect on patterns rather than argue positions.
+    - >
+      Guests may be unpacking a past situation
+      or preparing for one they can clearly name.
+      Participants may use first names or alternative names
+      to preserve privacy if they choose.
+      This is not appropriate for moments of acute crisis.
+
+framing:
+  heading: What this is — and isn’t
+  positives:
+    heading: This is
+    items:
+      - A structured, recorded sensemaking conversation
+      - Focused on patterns, language, and decision dynamics
+      - Oriented toward clarity and improved agency over time
+  negatives:
+    heading: This is not
+    items:
+      - Therapy or treatment
+      - Legal advice or mediation
+      - Advocacy for one side of a dispute
+      - A promise of resolution or outcome
+      - Fully private or anonymous support
+
+status:
+  heading: Current status
+  paragraphs:
+    - >
+      Conflict Conversations is in early formation.
+      Conversations are exploratory,
+      with no fixed schedule or production cadence.
+    - >
+      Some conversations may use first names only
+      or limit identifying details,
+      while others may be fully attributed,
+      depending on mutual agreement.
+
+connect:
+  heading: Interested in participating?
+  intro_paragraphs:
+    - >
+      If you’re interested in contributing to this inquiry —
+      or know someone who might be —
+      you’re welcome to reach out.
+    - >
+      An initial conversation will clarify
+      whether participation makes sense
+      and what scope would be appropriate.
+      There is no obligation.
+  ctas:
+    - key: connect
+      label: Reach out about Conflict Conversations
+      ga_event: conversion
+      ga_label: conflict_conversations_interest

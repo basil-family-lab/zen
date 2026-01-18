@@ -27,8 +27,25 @@ credibility:
     My work is informed by my training as a certified Zen Leadership instructor
     through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
 
+inquiry:
+  heading: Public inquiry
+  items:
+    - subheading: Conflict Conversations
+      paragraphs:
+        - >
+          A public, recorded inquiry using real situations
+          to explore patterns, language,
+          and decision dynamics around conflict.
+        - >
+          These conversations surface what’s actually happening
+          so people can act with greater clarity
+          and agency going forward.
+      link:
+        url: /conversations/
+        label: Learn about participating in Conflict Conversations
+
 situations:
-  heading: People usually arrive here during one of these moments
+  heading: Private situational guidance
   items:
     - subheading: Workplace conflict that won’t resolve on its own
       paragraphs:

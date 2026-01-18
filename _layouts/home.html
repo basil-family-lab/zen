@@ -8,13 +8,11 @@ layout: default
 
   <p>{{ data.hero.body }}</p>
 
-  {% if data.hero.image %}
-    <img
-      src="{{ data.hero.image | relative_url }}"
-      alt="{{ data.hero.image_alt | default: site.profile.name }}"
-      class="profile-image"
-    />
-  {% endif %}
+  <img
+    src="{{ data.hero.image | relative_url }}"
+    alt="{{ data.hero.image_alt | default: site.profile.name }}"
+    class="profile-image"
+  />
 </section>
 
 <section id="moment">
@@ -29,6 +27,24 @@ layout: default
   <p>
     <em>{{ data.credibility.line }}</em>
   </p>
+</section>
+
+<section id="inquiry">
+  <h2>{{ data.inquiry.heading }}</h2>
+
+  {% for item in data.inquiry.items %}
+    <h3>{{ item.subheading }}</h3>
+
+    {% for paragraph in item.paragraphs %}
+      <p>{{ paragraph }}</p>
+    {% endfor %}
+
+    {% if item.link %}
+      <p>
+        👉 <a href="{{ item.link.url | relative_url }}">{{ item.link.label }}</a>
+      </p>
+    {% endif %}
+  {% endfor %}
 </section>
 
 <section id="situations">
