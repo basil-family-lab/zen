@@ -1,7 +1,7 @@
 ---
 layout: situation
 title: Workplace
-description: Support for difficult transitions and high-stakes conversations.
+description: Guidance for professionals facing ongoing workplace conflict where the situation isn’t resolving and escalation feels risky.
 data_key: workplace
 permalink: /workplace/
 css_id: situation-workplace
