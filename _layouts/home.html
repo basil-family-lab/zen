@@ -29,10 +29,10 @@ layout: default
   </p>
 </section>
 
-<section id="inquiry">
-  <h2>{{ data.inquiry.heading }}</h2>
+<section id="situations">
+  <h2>{{ data.situations.heading }}</h2>
 
-  {% for item in data.inquiry.items %}
+  {% for item in data.situations.items %}
     <h3>{{ item.subheading }}</h3>
 
     {% for paragraph in item.paragraphs %}
@@ -47,10 +47,10 @@ layout: default
   {% endfor %}
 </section>
 
-<section id="situations">
-  <h2>{{ data.situations.heading }}</h2>
+<section id="inquiry">
+  <h2>{{ data.inquiry.heading }}</h2>
 
-  {% for item in data.situations.items %}
+  {% for item in data.inquiry.items %}
     <h3>{{ item.subheading }}</h3>
 
     {% for paragraph in item.paragraphs %}

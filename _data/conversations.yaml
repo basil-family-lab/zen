@@ -1,35 +1,36 @@
 hero:
-  heading: Conflict Conversations
+  heading: Conflict Conversations (in development)
   body: >
-    Conflict Conversations is a public, recorded inquiry
-    using real situations to surface patterns, language,
-    and decision dynamics around conflict.
-    The aim is improved clarity and agency —
-    so people can act more deliberately
-    in how they show up going forward.
+    Conflict Conversations is a one-on-one, recorded conversation
+    that becomes a published podcast episode.
+    Each conversation uses a real situation
+    to surface patterns, language,
+    and decision dynamics around conflict —
+    with the aim of improving clarity and agency
+    in how people act going forward.
   image: /assets/images/profile.jpg
   image_alt: Michael Basil
 
 moment:
-  heading: When understanding becomes critical to improving the situation
+  heading: When clarity becomes critical to improving the situation
   paragraphs:
     - >
       In complex or high-stakes situations,
-      action often happens before understanding has fully formed.
+      people often act before they fully understand
+      what’s actually driving the conflict.
     - >
-      Conflict Conversations exists for moments
-      when better clarity is necessary
-      to improve how decisions are made
-      and how people choose to engage.
+      Conflict Conversations creates space
+      to examine a situation carefully,
+      so decisions and actions going forward
+      are more deliberate and less reactive.
 
 participants:
   heading: Who this is for
   paragraphs:
     - >
       Conflict Conversations is for people willing to examine
-      a real situation publicly,
-      with enough distance and composure
-      to reflect on patterns rather than argue positions.
+      a real situation publicly
+      in a one-on-one recorded conversation.
     - >
       Guests may be unpacking a past situation
       or preparing for one they can clearly name.
