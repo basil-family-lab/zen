@@ -47,24 +47,6 @@ layout: default
   {% endfor %}
 </section>
 
-<section id="inquiry">
-  <h2>{{ data.inquiry.heading }}</h2>
-
-  {% for item in data.inquiry.items %}
-    <h3>{{ item.subheading }}</h3>
-
-    {% for paragraph in item.paragraphs %}
-      <p>{{ paragraph }}</p>
-    {% endfor %}
-
-    {% if item.link %}
-      <p>
-        👉 <a href="{{ item.link.url | relative_url }}">{{ item.link.label }}</a>
-      </p>
-    {% endif %}
-  {% endfor %}
-</section>
-
 <section id="closing">
   <p>{{ data.closing.line }}</p>
 </section>
