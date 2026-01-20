@@ -56,24 +56,6 @@ situations:
         url: /co-parenting/
         label: Explore co-parenting support
 
-inquiry:
-  heading: Public inquiry podcast
-  items:
-    - subheading: Conflict Conversations (in development)
-      paragraphs:
-        - >
-          A one-on-one, recorded conversation
-          exploring a real conflict situation
-          to surface patterns, language,
-          and decision dynamics.
-        - >
-          These conversations are shared publicly
-          so others can learn from how clarity
-          and agency are developed in practice.
-      link:
-        url: /conversations/
-        label: Learn about participating in Conflict Conversations
-
 closing:
   line: >
     Choosing when — or whether — to engage is part of the work.
