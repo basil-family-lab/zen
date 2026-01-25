@@ -81,13 +81,6 @@ framing:
       - Performance coaching or optimization
       - A guarantee of outcomes you do not control
 
-attribution:
-  body: >
-    FEBI® is a registered trademark of the
-    <a href="https://zenleader.global" target="_blank" rel="noopener">
-    Institute for Zen Leadership
-    </a>.
-
 connect:
   heading: Next step
   paragraphs:
@@ -105,3 +98,7 @@ connect:
       label: Schedule a free discovery consultation
       ga_event: conversion
       ga_label: discovery_consultation
+
+fine_print:
+  body: >
+    FEBI® is a registered trademark of the Institute for Zen Leadership.
