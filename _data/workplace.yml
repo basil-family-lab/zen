@@ -1,12 +1,13 @@
 hero:
-  heading: Workplace Conflict When the Situation Is Stuck
+  heading: Workplace conflict when the situation is stuck
   body: >
     I help professionals navigate ongoing workplace conflict
     where the stakes are real and the path forward isn’t obvious —
     even when other people involved may never change.
     The work focuses on increasing your agency,
     reducing unnecessary escalation,
-    and helping you act with clarity inside the system you’re already in.
+    and helping you act with clarity
+    inside the system you’re already in.
   image: /assets/images/profile.jpg
   image_alt: Michael Basil
 
@@ -53,12 +54,14 @@ situations:
           even if the current situation isn’t sustainable.
         - >
           You’re wondering whether there’s a way
-          to shift the pattern before things harden further.
+          to shift the pattern before positions harden further.
+
   closing_emphasis: >
     This work starts with what you can control —
     how you prepare,
     how you respond,
-    and how you choose to engage inside the system you’re part of.
+    and how you choose to engage
+    inside the system you’re part of.
 
 how_we_work:
   heading: How we work together
@@ -67,19 +70,19 @@ how_we_work:
       This is one-on-one work grounded in real situations.
       We work with current interactions,
       organizational context,
-      and the patterns that tend to take over when stakes are high.
-    - >
-      This is not just vibes.
+      and the patterns that tend to take over
+      when stakes are high.
     - >
       The tools I bring into this work are informed by my training and experience
-      as a certified Zen Leadership instructor through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
+      as a certified Zen Leadership instructor
+      through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
     - >
       The goal is not false harmony.
       The goal is clearer judgment,
       increased agency,
       and more deliberate action over time —
-      reducing unnecessary escalation
-      and preserving credibility and stability.
+      preserving credibility and stability
+      while reducing unnecessary escalation.
 
 framing:
   heading: What this work is — and isn’t
@@ -108,7 +111,8 @@ testimonials:
           instead of reacting in the moment.
         - >
           It helped me see where I actually had agency
-          and where I didn’t — which changed how I engaged.
+          and where I didn’t —
+          which changed how I engaged.
 
 connect:
   heading: Next step
