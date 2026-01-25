@@ -1,11 +1,13 @@
 hero:
-  heading: Co-Parenting When the Dynamic Is Stuck
+  heading: Co-parenting when the dynamic is stuck
   body: >
-    I help parents change how they show up in high-conflict co-parenting situations,
+    I help parents change how they show up
+    in high-conflict co-parenting situations —
     even when the other parent may never change.
     The work focuses on increasing your agency,
     reducing unnecessary escalation,
-    and creating more stability for you and your children.
+    and creating more stability
+    for you and your children.
   image: /assets/images/profile.jpg
   image_alt: Michael Basil
 
@@ -14,13 +16,14 @@ moment:
   paragraphs:
     - >
       Co-parenting conflict doesn’t resolve itself with time.
-      Patterns tend to harden, reactions intensify,
+      Patterns tend to harden,
+      reactions intensify,
       and conversations start to feel more brittle and charged.
     - >
       This work is for parents who want to interrupt those patterns —
       even when cooperation is limited,
-      and even when the other parent may not participate
-      in the change you’re making.
+      and even when the other parent
+      may not participate in the change you’re making.
 
 situations:
   heading: You might recognize yourself here
@@ -34,13 +37,16 @@ situations:
     - subheading: Interactions leave you drained or on edge
       paragraphs:
         - >
-          You prepare carefully, yet still walk away feeling reactive,
-          misunderstood, or emotionally exhausted.
+          You prepare carefully,
+          yet still walk away feeling reactive,
+          misunderstood,
+          or emotionally exhausted.
     - subheading: You’re trying to protect your children without escalating things
       paragraphs:
         - >
           You want consistency and stability for your kids,
-          while avoiding dynamics that make everything feel more adversarial.
+          while avoiding dynamics
+          that make everything feel more adversarial.
     - subheading: Court feels like it’s always in the background
       paragraphs:
         - >
@@ -48,30 +54,37 @@ situations:
           it can feel like it’s only one bad interaction away.
         - >
           You’re curious whether there’s another way
-          to shift the pattern before things escalate further.
+          to shift the pattern
+          before positions harden further.
+
   closing_emphasis: >
     This work starts with what you can control —
-    how you prepare, respond, and show up inside the system you’re already in.
+    how you prepare,
+    how you respond,
+    and how you show up
+    inside the system you’re already in.
 
 how_we_work:
   heading: How we work together
   paragraphs:
     - >
-      This is one-on-one work with real conversations and current situations.
+      This is one-on-one work with real conversations
+      and current situations.
       We work with what is actually happening —
       the interactions you’re already in
-      and the patterns that tend to take over when the stakes are high.
-    - >
-      This is not just vibes.
+      and the patterns that tend to take over
+      when the stakes are high.
     - >
       The tools I bring into this work are informed by my training and experience
-      as a certified Zen Leadership instructor through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
+      as a certified Zen Leadership instructor
+      through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
     - >
       The goal is not false harmony.
       The goal is increased agency and stability over time —
       reducing the likelihood of court involvement,
       expensive mediation,
-      and ongoing conflict that pulls energy away from your family.
+      and ongoing conflict
+      that pulls energy away from your family.
 
 framing:
   heading: What this work is — and isn’t
@@ -96,10 +109,13 @@ testimonials:
     - title: Outcomes
       quotes:
         - >
-          It feels like we can negotiate without fear of court constantly hanging over us.
+          It feels like we can negotiate
+          without fear of court constantly hanging over us.
         - >
-          I’m able to prepare for conversations and respond deliberately,
-          instead of getting pulled into the same emotional spiral.
+          I’m able to prepare for conversations
+          and respond deliberately,
+          instead of getting pulled
+          into the same emotional spiral.
 
 connect:
   heading: Next step
