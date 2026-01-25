@@ -30,7 +30,8 @@
   </main>
   <footer>
     <span>{{ site.footer.copyright | default: '' }}</span>
-    <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>
+    <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+    <a href="{{ '/engagement/' | relative_url }}">Engagements</a>
     {% assign page_data = site.data[page.data_key] %}
     {% if page_data.fine_print %}
       <span class="footer-fine-print">{{ page_data.fine_print.body }}</span>
