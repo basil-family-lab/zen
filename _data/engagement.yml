@@ -25,9 +25,12 @@ containers:
   heading: Engagement options
   items:
     - subheading: Sense-Making & Integration Session
+      meta:
+        price: $250
+        duration: 60–120 minutes
       paragraphs:
         - >
-          This option is for situations where clarity is needed now,
+          This session is for situations where clarity is needed now,
           but ongoing work may or may not be necessary.
         - >
           You are introduced to a practical sense-making tool
@@ -43,6 +46,9 @@ containers:
           apply what they learn,
           and decide later whether further support would be useful.
     - subheading: Five-Session Integration Engagement
+      meta:
+        price: $1250
+        duration: 60–90 minutes per session
       paragraphs:
         - >
           Some situations do not resolve in a single conversation.
@@ -51,7 +57,7 @@ containers:
           or pressure accumulates over time.
         - >
           This engagement supports working with those conditions
-          across multiple moments as they unfold.
+          across multiple conversations as they unfold.
         - >
           The primary sense-making lens is deepened through use,
           and additional tools are introduced as needed,
@@ -80,6 +86,13 @@ framing:
       - Mediation, advocacy, or representation
       - Performance coaching or optimization
       - A guarantee of outcomes you do not control
+
+attribution:
+  body: >
+    FEBI® is a registered trademark of the
+    <a href="https://zenleader.global" target="_blank" rel="noopener">
+    Institute for Zen Leadership
+    </a>.
 
 connect:
   heading: Next step
