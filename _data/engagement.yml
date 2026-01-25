@@ -1,0 +1,100 @@
+hero:
+  heading: Engagements for Situations That Need Clarity
+  body: >
+    This page describes how this work is typically done.
+    Each engagement is designed to support clearer judgment
+    and more deliberate action inside real, present situations —
+    without requiring certainty, compliance, or change from others.
+  image: /assets/images/profile.jpg
+  image_alt: Michael Basil
+
+moment:
+  heading: Deciding what kind of support is useful
+  paragraphs:
+    - >
+      Most people arrive here in the middle of something:
+      a situation that feels tense, constrained, or hard to read.
+      The question is not whether the situation matters,
+      but how much support is actually helpful.
+    - >
+      The engagements below reflect two common needs:
+      getting oriented in a specific situation,
+      or working with patterns that unfold over time.
+
+containers:
+  heading: Engagement options
+  items:
+    - subheading: Sense-Making & Integration Session
+      paragraphs:
+        - >
+          This option is for situations where clarity is needed now,
+          but ongoing work may or may not be necessary.
+        - >
+          You are introduced to a practical sense-making tool
+          drawn from the Zen Leadership toolkit (FEBI®),
+          and we apply it directly to a specific situation you are navigating.
+        - >
+          The focus is on understanding:
+          how you are showing up,
+          how others are likely experiencing you,
+          and what choices are realistically available.
+        - >
+          Many people use this session to orient themselves,
+          apply what they learn,
+          and decide later whether further support would be useful.
+    - subheading: Five-Session Integration Engagement
+      paragraphs:
+        - >
+          Some situations do not resolve in a single conversation.
+          Patterns repeat,
+          relationships persist,
+          or pressure accumulates over time.
+        - >
+          This engagement supports working with those conditions
+          across multiple moments as they unfold.
+        - >
+          The primary sense-making lens is deepened through use,
+          and additional tools are introduced as needed,
+          always in service of steadier judgment under pressure.
+        - >
+          The emphasis is not speed or optimization,
+          but reliability in how you think, decide,
+          and respond over time.
+  closing_emphasis: >
+    What makes sense depends on the nature of the situation
+    and how much continuity is needed to stabilize or shift it.
+
+framing:
+  heading: What these engagements are — and aren’t
+  positives:
+    heading: These engagements support
+    items:
+      - Practical clarity in complex human situations
+      - Increased agency without unnecessary escalation
+      - More deliberate responses under pressure
+      - Stability and judgment over time
+  negatives:
+    heading: These engagements are not
+    items:
+      - Therapy or emotional processing work
+      - Mediation, advocacy, or representation
+      - Performance coaching or optimization
+      - A guarantee of outcomes you do not control
+
+connect:
+  heading: Next step
+  paragraphs:
+    - >
+      If this feels relevant to what you are navigating,
+      the next step is a short conversation.
+    - >
+      We will look at your situation together
+      and determine whether an engagement makes sense,
+      and if so, what level of support is appropriate.
+    - >
+      There is no obligation.
+  ctas:
+    - key: connect
+      label: Schedule a free discovery consultation
+      ga_event: conversion
+      ga_label: discovery_consultation

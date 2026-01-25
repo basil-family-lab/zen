@@ -1,0 +1,79 @@
+---
+layout: default
+---
+{% assign data = site.data[page.data_key] %}
+
+<section id="hero">
+  <h1>{{ data.hero.heading }}</h1>
+
+  <p>{{ data.hero.body }}</p>
+
+  <img
+    src="{{ data.hero.image | relative_url }}"
+    alt="{{ data.hero.image_alt | default: site.profile.name }}"
+    class="profile-image"
+  />
+</section>
+
+<section id="moment">
+  <h2>{{ data.moment.heading }}</h2>
+
+  {% for paragraph in data.moment.paragraphs %}
+    <p>{{ paragraph }}</p>
+  {% endfor %}
+</section>
+
+<section id="containers">
+  <h2>{{ data.containers.heading }}</h2>
+
+  {% for item in data.containers.items %}
+    <h3>{{ item.subheading }}</h3>
+
+    {% for paragraph in item.paragraphs %}
+      <p>{{ paragraph }}</p>
+    {% endfor %}
+  {% endfor %}
+
+  {% if data.containers.closing_emphasis %}
+    <p>
+      <em>{{ data.containers.closing_emphasis }}</em>
+    </p>
+  {% endif %}
+</section>
+
+<section id="framing">
+  <h2>{{ data.framing.heading }}</h2>
+
+  <h3>{{ data.framing.positives.heading }}</h3>
+  <ul>
+    {% for item in data.framing.positives.items %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+  <h3>{{ data.framing.negatives.heading }}</h3>
+  <ul>
+    {% for item in data.framing.negatives.items %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="connect">
+  <h2>{{ data.connect.heading }}</h2>
+
+  {% for paragraph in data.connect.paragraphs %}
+    <p>{{ paragraph }}</p>
+  {% endfor %}
+
+  {% for cta in data.connect.ctas %}
+    <p>
+      👉
+      <a href="{{ site.action_links[cta.key] }}"
+         data-ga-event="{{ cta.ga_event }}"
+         data-ga-label="{{ cta.ga_label }}">
+        {{ cta.label }}
+      </a>
+    </p>
+  {% endfor %}
+</section>
