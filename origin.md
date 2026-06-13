@@ -1,16 +1,11 @@
 ---
-layout: default
+layout: origin
 title: Creating Conditions
-description: An origin story.
+subtitle: An origin story.
+description: A personal origin story about creating conditions for trust, belonging, and change—across leadership, teams, and life.
 permalink: /origin/
 css_id: origin
 ---
-
-# Creating Conditions
-
-*An origin story.*
-
-![Michael Basil](/assets/images/profile.jpg){: .profile-image }
 
 ## Where I learned it first
 
@@ -84,7 +79,7 @@ That path eventually led me to Zen Leadership, then retreats, then teaching, the
 
 Recently, someone scheduled a discovery call with me. I don’t market heavily. I don’t run campaigns. I simply maintain a small presence in the world.
 
-When I asked how he found me, he described a path: a book in a bookstore caught his attention. That led him to Zen. That led him to the [Institute for Zen Leadership](https://zenleader.global). That led him to my profile. That led him to my website.
+When I asked how he found me, he described a path: a book in a bookstore caught his attention. That led him to Zen. That led him to the [Institute for Zen Leadership](https://zenleader.global) site. That led him to my profile. That led him to my website.
 
 Then he said something that stopped me: “The energy pulled me in.” Not my credentials. Not my résumé. Not my accomplishments. Something else—something harder to measure and easier to feel.
 
