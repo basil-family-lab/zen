@@ -1,7 +1,8 @@
 ---
 layout: origin
 title: Creating Conditions
-subtitle: An origin story.
+
+subtitle: An origin story — how trust, belonging, and change become possible.
 description: A personal origin story about creating conditions for trust, belonging, and change—across leadership, teams, and life.
 permalink: /origin/
 css_id: origin
