@@ -28,7 +28,7 @@ The work was meaningful. The challenges were real. I learned a tremendous amount
 
 But somewhere along the way, I drifted away from something I couldn’t quite name. I could feel it. The farther I moved from the parrot store and the soccer pitch, the farther I moved from a way of being that had once felt natural.
 
-I became increasingly focused on production—outcomes, execution, performance, achievement. There is nothing wrong with those things. In fact, some of the best work of my career would come later. But I was becoming disconnected from something deeper.
+I became increasingly focused on production—outcomes, execution, performance, achievement. There is nothing wrong with those things. That focus on production developed capacities that would later serve me well. But I was becoming disconnected from something deeper.
 
 ## A hospital room
 
@@ -70,7 +70,7 @@ During COVID, I found my way into an [Aikido dojo](https://japaneseculturecenter
 
 I brought my children. We stayed.
 
-Years later, the dojo has become part of our extended family. We’ve celebrated New Year’s there. We’ve celebrated the Fourth of July there. My children have grown there.
+Years later, the dojo has become part of our chosen family. We’ve celebrated New Year’s there. We’ve celebrated the Fourth of July there. My children have grown there.
 
 What keeps bringing me back is not technique. It’s practice—the steady cultivation of conditions that allow people to grow.
 
