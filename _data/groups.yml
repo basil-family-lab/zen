@@ -1,0 +1,109 @@
+hero:
+  heading: Adaptive Leadership for Groups
+  body: >
+    I help groups navigate complexity,
+    conflict,
+    and change by developing greater awareness,
+    shared understanding,
+    and capacity for adaptive action.
+  image: /assets/images/profile.jpg
+  image_alt: Michael Basil
+
+moment:
+  heading: When alignment is not enough
+  paragraphs:
+    - >
+      Groups often struggle not because people lack commitment,
+      but because different perspectives,
+      incentives,
+      and experiences are difficult to integrate.
+    - >
+      Adaptive Leadership helps groups work with those differences
+      rather than avoid them.
+
+situations:
+  heading: Common challenges
+
+  items:
+    - subheading: Recurring patterns
+      paragraphs:
+        - >
+          The group keeps revisiting the same issues
+          without meaningful movement.
+
+    - subheading: Competing perspectives
+      paragraphs:
+        - >
+          People see the situation differently,
+          and agreement is difficult.
+
+    - subheading: Change creates uncertainty
+      paragraphs:
+        - >
+          The old ways of working no longer fit,
+          but the new way is unclear.
+
+  closing_emphasis: >
+    The goal is not false agreement.
+    The goal is greater capacity to navigate complexity together.
+
+how_we_work:
+  heading: How we work together
+  paragraphs:
+    - >
+      This work is grounded in the real dynamics of your group.
+      We work with what is actually happening —
+      communication patterns,
+      decision constraints,
+      roles and responsibilities,
+      and the pressures shaping behavior.
+    - >
+      The tools I bring into this work are informed by my training and experience
+      as a certified Zen Leadership instructor
+      through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
+    - >
+      The goal is not to force alignment.
+      The goal is stronger shared clarity,
+      more coherent action,
+      and increased adaptive capacity over time.
+
+framing:
+  heading: What this work is — and isn’t
+  positives:
+    heading: This work supports
+    items:
+      - Clearer communication under pressure
+      - Better decisions inside real constraints
+      - Increased capacity to integrate competing perspectives
+      - More adaptive responses as conditions change
+  negatives:
+    heading: This work is not
+    items:
+      - Mediation, arbitration, or adjudication
+      - A guarantee that other people will change
+      - Corporate performance coaching or optimization
+      - A substitute for formal HR, legal, or compliance processes
+
+testimonials:
+  heading: What people have said
+  groups:
+    - title: Outcomes
+      quotes:
+        - >
+          I’m able to prepare for difficult conversations
+          instead of reacting in the moment.
+        - >
+          It helped me see where I actually had agency
+          and where I didn’t —
+          which changed how I engaged.
+
+connect:
+  heading: Next step
+  intro_paragraphs:
+    - >
+      If this resonates,
+      you can review how this work is typically structured
+      and what engagement options look like.
+  link:
+    url: /engagement
+    label: View engagement options

@@ -1,0 +1,107 @@
+hero:
+  heading: Adaptive Leadership for Communities
+  body: >
+    I support communities navigating complexity,
+    helping people develop the capacity
+    to learn,
+    adapt,
+    and create meaningful change together.
+  image: /assets/images/profile.jpg
+  image_alt: Michael Basil
+
+moment:
+  heading: When no single person has the answer
+  paragraphs:
+    - >
+      Communities face challenges that emerge
+      from relationships,
+      systems,
+      and changing conditions.
+    - >
+      Adaptive Leadership creates space
+      for shared sense-making
+      and collective responsibility.
+
+situations:
+  heading: Where this work helps
+
+  items:
+    - subheading: Shared challenges without clear solutions
+      paragraphs:
+        - >
+          The community is facing something
+          that requires learning rather than a quick fix.
+
+    - subheading: Different needs and perspectives
+      paragraphs:
+        - >
+          People care deeply,
+          but do not always see the path forward the same way.
+
+    - subheading: Building adaptive capacity
+      paragraphs:
+        - >
+          The community wants to become better at navigating change.
+
+  closing_emphasis: >
+    Meaningful change emerges when people develop
+    the capacity to face reality together.
+
+how_we_work:
+  heading: How we work together
+  paragraphs:
+    - >
+      Communities are systems.
+      This work supports noticing patterns,
+      strengthening shared clarity,
+      and developing ways of engaging
+      that help learning and responsibility spread.
+    - >
+      The tools I bring into this work are informed by my training and experience
+      as a certified Zen Leadership instructor
+      through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
+    - >
+      The goal is not a single heroic solution.
+      The goal is increased capacity to respond wisely
+      as conditions change.
+
+framing:
+  heading: What this work is — and isn’t
+  positives:
+    heading: This work supports
+    items:
+      - Shared understanding in complex community situations
+      - Collective learning and adaptive action
+      - Increased capacity to stay engaged under pressure
+      - More coherent movement toward meaningful change
+  negatives:
+    heading: This work is not
+    items:
+      - Political advocacy or representation
+      - Mediation or conflict adjudication
+      - A guarantee of outcomes dependent on other people’s choices
+      - A replacement for governance or formal decision-making structures
+
+testimonials:
+  heading: What people have said
+  groups:
+    - title: Outcomes
+      quotes:
+        - >
+          I’m able to prepare for difficult conversations
+          instead of reacting in the moment.
+        - >
+          It helped me see where I actually had agency
+          and where I didn’t —
+          which changed how I engaged.
+
+connect:
+  heading: Next step
+  intro_paragraphs:
+    - >
+      If this resonates,
+      you can review how this work is typically structured
+      and what engagement options look like.
+  link:
+    url: /engagement
+    label: View engagement options

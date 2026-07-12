@@ -26,7 +26,7 @@ moment:
 containers:
   heading: Engagement options
   items:
-    - subheading: Sense-making & integration session
+    - subheading: Clarity & integration session
       meta:
         price: $350
         duration: 120 minutes
@@ -35,7 +35,7 @@ containers:
           This session is for situations where clarity is needed now,
           but ongoing work may or may not be necessary.
         - >
-          You are introduced to a practical sense-making tool
+          You are introduced to a practical clarity tool
           drawn from the Zen Leadership toolkit (FEBI®),
           and we apply it directly
           to a specific situation you are navigating.
@@ -67,7 +67,7 @@ containers:
           across multiple conversations
           as they unfold.
         - >
-          The primary sense-making lens
+          The primary clarity lens
           is deepened through use,
           and additional tools are introduced as needed —
           always in service of steadier judgment

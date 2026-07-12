@@ -1,0 +1,119 @@
+hero:
+  heading: Adaptive Leadership for Individuals
+  body: >
+    I work with people navigating complex personal and professional situations
+    where the path forward is uncertain.
+    Together we develop greater clarity,
+    agency,
+    and capacity to respond effectively
+    within the systems you are part of.
+  image: /assets/images/profile.jpg
+  image_alt: Michael Basil
+
+moment:
+  heading: When the situation cannot simply be solved
+  paragraphs:
+    - >
+      Many important situations involve other people,
+      competing needs,
+      and conditions outside your control.
+    - >
+      The work is not about finding the perfect answer.
+      It is about seeing more clearly,
+      understanding what is happening,
+      and choosing your next move deliberately.
+
+situations:
+  heading: You might recognize yourself here
+
+  items:
+    - subheading: A situation keeps repeating
+      paragraphs:
+        - >
+          The same conversations,
+          patterns,
+          or tensions continue despite your efforts.
+
+    - subheading: The stakes are real
+      paragraphs:
+        - >
+          You want to act carefully because the consequences matter.
+
+    - subheading: You have responsibility without full control
+      paragraphs:
+        - >
+          You are accountable for outcomes,
+          but many factors remain outside your influence.
+
+    - subheading: Advice has stopped helping
+      paragraphs:
+        - >
+          You need a way to think and act differently,
+          not another opinion about what you should do.
+
+  closing_emphasis: >
+    This work starts with what you can influence:
+    how you see the situation,
+    how you respond,
+    and how you choose to engage.
+
+how_we_work:
+  heading: How we work together
+  paragraphs:
+    - >
+      This is one-on-one work grounded in real situations.
+      We work with current conditions,
+      the relationships involved,
+      and the patterns that take over
+      when pressure is high.
+    - >
+      The tools I bring into this work are informed by my training and experience
+      as a certified Zen Leadership instructor
+      through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
+    - >
+      The goal is not to control other people.
+      The goal is clearer judgment,
+      increased agency,
+      and more deliberate action over time —
+      within the system you are already part of.
+
+framing:
+  heading: What this work is — and isn’t
+  positives:
+    heading: This work supports
+    items:
+      - Practical clarity in complex human situations
+      - Increased agency without unnecessary escalation
+      - More deliberate responses under pressure
+      - Greater stability and capacity over time
+  negatives:
+    heading: This work is not
+    items:
+      - Therapy or emotional processing work
+      - Mediation, advocacy, or representation
+      - Generic executive coaching or performance optimization
+      - A guarantee of outcomes you do not control
+
+testimonials:
+  heading: What people have said
+  groups:
+    - title: Outcomes
+      quotes:
+        - >
+          I’m able to prepare for difficult conversations
+          instead of reacting in the moment.
+        - >
+          It helped me see where I actually had agency
+          and where I didn’t —
+          which changed how I engaged.
+
+connect:
+  heading: Next step
+  intro_paragraphs:
+    - >
+      If this resonates,
+      you can review how this work is typically structured
+      and what engagement options look like.
+  link:
+    url: /engagement
+    label: View engagement options

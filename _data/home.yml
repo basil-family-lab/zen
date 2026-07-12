@@ -1,26 +1,27 @@
 hero:
-  heading: Navigating difficult situations with clarity
+  heading: Adaptive Leadership for meaningful change
   body: >
-    I help people navigate situations where the stakes are real
-    and the path forward isn’t obvious.
-    The work focuses on restoring agency,
-    reducing unnecessary escalation,
-    and helping you move forward deliberately.
+    I help individuals, groups, and communities navigate complex situations
+    where the path forward isn’t obvious.
+    The work focuses on increasing clarity,
+    restoring agency,
+    and developing the capacity to respond wisely
+    when circumstances are changing.
   image: /assets/images/profile.jpg
   image_alt: Michael Basil
 
 moment:
-  heading: When advice isn’t helping
+  heading: When knowing isn't enough
   paragraphs:
     - >
-      In moments of disruption or conflict,
-      it’s common to receive a lot of advice —
-      much of it conflicting, outdated,
-      or disconnected from your reality.
+      In complex situations, more information or advice
+      often does not create movement.
+      The challenge is rarely a lack of intelligence
+      or effort.
     - >
-      What’s usually missing isn’t effort or intelligence,
-      but clarity about how to move forward
-      from where you actually are.
+      What is needed is the ability to see the system more clearly,
+      recognize patterns,
+      and choose responses that create meaningful change.
 
 credibility:
   line: >
@@ -28,34 +29,51 @@ credibility:
     through the <a href="https://zenleader.global">Institute for Zen Leadership</a>.
 
 situations:
-  heading: Situational leadership coaching
-  items:
-    - subheading: Workplace conflict that won’t resolve on its own
-      paragraphs:
-        - >
-          Repeating conversations.
-          Unclear authority.
-          Acting too quickly feels risky.
-        - >
-          You want to move forward with clarity
-          without making the situation worse.
-      link:
-        url: /workplace/
-        label: Explore workplace support
+  heading: Where Adaptive Leadership helps
 
-    - subheading: Co-parenting in a high-conflict dynamic
+  items:
+    - subheading: Individuals navigating complexity
       paragraphs:
         - >
-          Ongoing tension.
-          Repeating conversations.
-          Court or mediation always in the background.
+          You are facing a situation where the stakes are real,
+          other people are involved,
+          and the obvious answers are not working.
         - >
-          You want more stability and agency
-          while reducing unnecessary escalation.
+          The work helps you increase your agency,
+          understand patterns,
+          and choose how you want to engage.
       link:
-        url: /co-parenting/
-        label: Explore co-parenting support
+        url: /individuals/
+        label: Adaptive Leadership for Individuals
+
+    - subheading: Groups working through change
+      paragraphs:
+        - >
+          Teams and groups often get stuck in recurring patterns,
+          competing perspectives,
+          or unclear ways of working together.
+        - >
+          The work supports clearer communication,
+          better decisions,
+          and more adaptive responses.
+      link:
+        url: /groups/
+        label: Adaptive Leadership for Groups
+
+    - subheading: Communities building capacity
+      paragraphs:
+        - >
+          Communities face challenges that no individual
+          can solve alone.
+        - >
+          The work supports shared understanding,
+          collective learning,
+          and the ability to navigate complexity together.
+      link:
+        url: /communities/
+        label: Adaptive Leadership for Communities
 
 closing:
   line: >
-    Choosing when — or whether — to engage is part of the work.
+    Meaningful change begins with how we choose to engage
+    with the situation we are already part of.
