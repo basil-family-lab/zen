@@ -1,4 +1,4 @@
-# zen.basil.one
+# agency
 
 This repository contains the source for a static single page site.
 
