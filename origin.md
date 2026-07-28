@@ -76,7 +76,7 @@ Years later, the dojo has become part of our chosen family. We’ve celebrated N
 
 What keeps bringing me back is not technique. It’s practice—the steady cultivation of conditions that allow people to grow.
 
-That path led me into Zen Leadership training, then retreats, then teaching, and eventually into a coaching practice rooted in the same question: what conditions allow human beings to learn, heal, connect, and transform?
+That path led me into Zen Leadership training, then retreats, and eventually into a coaching practice rooted in the same question: what conditions allow human beings to learn, heal, connect, and transform?
 
 ## The thread that connects it all
 
