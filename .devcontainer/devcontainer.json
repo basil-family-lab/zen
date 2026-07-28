@@ -1,5 +1,5 @@
 {
-  "name": "zen.basil.one",
+  "name": "agency.basil.one",
   "image": "mcr.microsoft.com/devcontainers/ruby:3.2",
   "features": {},
   "postCreateCommand": "bundle install",
