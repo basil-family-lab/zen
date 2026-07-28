@@ -68,19 +68,21 @@ Around that same time, another part of my life started calling for attention. No
 
 During COVID, I found my way into an [Aikido dojo](https://japaneseculturecenter.com). I didn’t know much about the community. I didn’t have a grand plan. I simply walked into the space and felt something: a sense of belonging before understanding.
 
+My work is informed by my training as a Zen Leadership Coach through the [Institute for Zen Leadership](https://zenleader.global), but the thread that matters most is simpler: creating conditions for people to see clearly, respond thoughtfully, and move together.
+
 I brought my children. We stayed.
 
 Years later, the dojo has become part of our chosen family. We’ve celebrated New Year’s there. We’ve celebrated the Fourth of July there. My children have grown there.
 
 What keeps bringing me back is not technique. It’s practice—the steady cultivation of conditions that allow people to grow.
 
-That path eventually led me to Zen Leadership, then retreats, then teaching, then serving as an instructor. Looking back, I can see that none of these experiences were separate journeys. They were all exploring the same question: what conditions allow human beings to learn, heal, connect, and transform?
+That path led me into Zen Leadership training, then retreats, then teaching, and eventually into a coaching practice rooted in the same question: what conditions allow human beings to learn, heal, connect, and transform?
 
 ## The thread that connects it all
 
 Recently, someone scheduled a discovery call with me. I don’t market heavily. I don’t run campaigns. I simply maintain a small presence in the world.
 
-When I asked how he found me, he described a path: a book in a bookstore caught his attention. That led him to Zen. That led him to the [Institute for Zen Leadership](https://zenleader.global) site. That led him to my profile. That led him to my website.
+When I asked how he found me, he described a path: a book in a bookstore caught his attention. That led him to a conversation about attention, leadership, and change. That led him to my profile. That led him to my website.
 
 Then he said something that stopped me: “The energy pulled me in.” Not my credentials. Not my résumé. Not my accomplishments. Something else—something harder to measure and easier to feel.
 
