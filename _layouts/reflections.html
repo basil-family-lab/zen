@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{% assign data = site.data[page.data_key] %}
+
+<section id="hero">
+  <h1>{{ data.hero.heading }}</h1>
+
+  <p>{{ data.hero.body }}</p>
+
+  <img
+    src="{{ data.hero.image | relative_url }}"
+    alt="{{ data.hero.image_alt | default: site.profile.name }}"
+    class="profile-image"
+  />
+</section>
+
+<section id="reflections-list">
+  {% assign reflections = site.reflections | sort: 'date' | reverse %}
+  {% for item in reflections %}
+    <article>
+      <h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
+      <p>{{ item.description }}</p>
+    </article>
+  {% endfor %}
+</section>

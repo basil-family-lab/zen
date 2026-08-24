@@ -4,6 +4,10 @@ url: https://agency.basil.one
 baseurl: ""
 # Keep plugins list explicit so GitHub Pages matches local builds.
 plugins: []
+collections:
+  reflections:
+    output: true
+    permalink: /reflections/:path/
 profile:
   name: Michael Basil
 action_links:
