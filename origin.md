@@ -74,7 +74,7 @@ I brought my children. We stayed.
 
 Years later, the dojo has become part of our chosen family. We’ve celebrated New Year’s there. We’ve celebrated the Fourth of July there. My children have grown there.
 
-What keeps bringing me back is not technique. It’s practice—the steady cultivation of conditions that allow people to grow.
+What keeps bringing me back is not technique. It’s practice—the steady cultivation of conditions that allow people to grow. I've written more about what continues to unfold there in [We Walk Together](/reflections/we-walk-together/).
 
 That path led me into Zen Leadership training, then retreats, and eventually into a coaching practice rooted in the same question: what conditions allow human beings to learn, heal, connect, and transform?
 
