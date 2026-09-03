@@ -20,6 +20,9 @@ layout: default
   {% for item in reflections %}
     <article>
       <h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
+      {% if item.date %}
+        <p class="publish-date"><time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%B %-d, %Y" }}</time></p>
+      {% endif %}
       <p>{{ item.description }}</p>
     </article>
   {% endfor %}

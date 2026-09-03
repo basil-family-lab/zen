@@ -106,6 +106,12 @@ p + p {
   color: #5b5b5b;
 }
 
+.publish-date {
+  font-size: 16px;
+  font-style: italic;
+  color: #5b5b5b;
+}
+
 /* Lists */
 
 ul {
